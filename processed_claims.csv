@@ -1,0 +1,101 @@
+claim_id,type,description,amount,urgency,prior_claims,customer_id,risk_flag
+lutw4250,Burglary & Theft,"Claim related to Large theft, amounting to 10827.15 USD.",10827.15,No,2,CUST7426,Medium
+ydvs5228,Auto Insurance,"Claim related to Bodily Injury Liability, amounting to 87224.78 USD.",87224.78,Yes,5,CUST4517,High
+kosm1767,Burglary & Theft,"Claim related to Business Theft, amounting to 85182.7 USD.",85182.7,No,3,CUST9695,High
+pckq0778,Burglary & Theft,"Claim related to Small-scale theft, amounting to 612.58 USD.",612.58,Yes,2,CUST2162,Medium
+kedg6130,Health Insurance,"Claim related to Routine Care/Minor Treatments, amounting to 570.55 USD.",570.55,No,4,CUST8181,Medium
+kxus6793,Auto Insurance,"Claim related to Totaled Vehicle Replacement, amounting to 16878.73 USD.",16878.73,No,5,CUST3098,High
+oddb6232,Burglary & Theft,"Claim related to Large theft, amounting to 13764.57 USD.",13764.57,Yes,3,CUST1069,Medium
+lpbs1056,Renters Insurance,"Claim related to Fire or Smoke Damage, amounting to 10423.67 USD.",10423.67,No,4,CUST9911,Medium
+bmcw3488,Renters Insurance,"Claim related to Temporary Housing, amounting to 5257.36 USD.",5257.36,No,5,CUST3633,High
+yltx9077,Health Insurance,"Claim related to Surgery/Hospitalization, amounting to 91681.65 USD.",91681.65,Yes,5,CUST8799,High
+shmg4467,Auto Insurance,"Claim related to Minor Damage, amounting to 1845.5 USD.",1845.5,No,5,CUST2461,High
+gank6704,Property Damage,"Claim related to Moderate Damage, amounting to 13593.19 USD.",13593.19,No,2,CUST7741,Medium
+vegp8645,Property Damage,"Claim related to Moderate Damage, amounting to 14893.57 USD.",14893.57,No,4,CUST2535,Medium
+fmiq6046,Health Insurance,"Claim related to Emergency Room Visit, amounting to 1329.59 USD.",1329.59,Yes,0,CUST4540,Low
+ggfv0975,Health Insurance,"Claim related to High-Risk/Long-Term Claims, amounting to 878262.73 USD.",878262.73,Yes,3,CUST5021,High
+gdsq6572,Burglary & Theft,"Claim related to Large theft, amounting to 9277.87 USD.",9277.87,No,0,CUST1775,Low
+tdtp7664,Renters Insurance,"Claim related to Fire or Smoke Damage, amounting to 6726.98 USD.",6726.98,Yes,5,CUST1590,High
+jmnx4017,Burglary & Theft,"Claim related to Small-scale theft, amounting to 894.74 USD.",894.74,No,3,CUST7018,Medium
+zurx3979,Auto Insurance,"Claim related to Totaled Vehicle Replacement, amounting to 32741.79 USD.",32741.79,Yes,0,CUST9301,Low
+ucgn1014,Property Damage,"Claim related to Moderate Damage, amounting to 14716.66 USD.",14716.66,No,1,CUST5307,Low
+gafd8466,Health Insurance,"Claim related to Routine Care/Minor Treatments, amounting to 298.38 USD.",298.38,Yes,2,CUST2196,Medium
+vpqb1939,Auto Insurance,"Claim related to Bodily Injury Liability, amounting to 17012.84 USD.",17012.84,No,4,CUST7861,Medium
+smtr6269,Property Damage,"Claim related to Minor Damage, amounting to 2343.2 USD.",2343.2,No,3,CUST1047,Medium
+jiaw2010,Health Insurance,"Claim related to Routine Care/Minor Treatments, amounting to 142.19 USD.",142.19,Yes,4,CUST4537,High
+rtup2069,Health Insurance,"Claim related to High-Risk/Long-Term Claims, amounting to 419347.84 USD.",419347.84,No,0,CUST4014,High
+axfc4764,Health Insurance,"Claim related to Routine Care/Minor Treatments, amounting to 479.48 USD.",479.48,Yes,0,CUST7251,Low
+cavz8927,Renters Insurance,"Claim related to Water Damage, amounting to 1277.89 USD.",1277.89,Yes,0,CUST4326,Low
+gkmd8245,Renters Insurance,"Claim related to Fire or Smoke Damage, amounting to 29960.08 USD.",29960.08,Yes,0,CUST3724,High
+tzvv5180,Burglary & Theft,"Claim related to Large theft, amounting to 15938.77 USD.",15938.77,Yes,0,CUST3432,Medium
+rehm7899,Burglary & Theft,"Claim related to Business Theft, amounting to 97974.11 USD.",97974.11,Yes,2,CUST2258,High
+kktf0335,Auto Insurance,"Claim related to Moderate Accidents, amounting to 8903.98 USD.",8903.98,No,0,CUST6305,Low
+jquj9050,Burglary & Theft,"Claim related to Small-scale theft, amounting to 433.5 USD.",433.5,Yes,0,CUST8659,Low
+rpfq9087,Property Damage,"Claim related to Minor Damage, amounting to 1217.4 USD.",1217.4,No,2,CUST5885,Medium
+dtso6762,Auto Insurance,"Claim related to Moderate Accidents, amounting to 6995.01 USD.",6995.01,No,3,CUST6174,Medium
+ditk1477,Property Damage,"Claim related to Natural Disasters, amounting to 310191.1 USD.",310191.1,No,1,CUST2488,High
+vtda1734,Health Insurance,"Claim related to Chronic Illness Treatments, amounting to 138713.28 USD.",138713.28,Yes,4,CUST4538,High
+hbco1032,Property Damage,"Claim related to Major Structural Damage, amounting to 131989.06 USD.",131989.06,No,1,CUST1909,Low
+mrwh8826,Health Insurance,"Claim related to High-Risk/Long-Term Claims, amounting to 832016.22 USD.",832016.22,Yes,4,CUST8799,High
+fbbh3459,Health Insurance,"Claim related to Emergency Room Visit, amounting to 4396.67 USD.",4396.67,No,2,CUST9383,Medium
+egjs7074,Property Damage,"Claim related to Major Structural Damage, amounting to 69722.67 USD.",69722.67,Yes,3,CUST2376,Medium
+ocgf5247,Health Insurance,"Claim related to Chronic Illness Treatments, amounting to 89472.51 USD.",89472.51,No,3,CUST1353,Medium
+onlk2528,Auto Insurance,"Claim related to Moderate Accidents, amounting to 10468.31 USD.",10468.31,Yes,4,CUST1912,High
+vhiu1585,Property Damage,"Claim related to Minor Damage, amounting to 2022.78 USD.",2022.78,Yes,1,CUST1412,Low
+wpuk6283,Health Insurance,"Claim related to Emergency Room Visit, amounting to 3992.26 USD.",3992.26,No,1,CUST8857,Low
+sbuk4784,Property Damage,"Claim related to Minor Damage, amounting to 867.97 USD.",867.97,Yes,3,CUST9460,Medium
+gmiu6778,Health Insurance,"Claim related to Routine Care/Minor Treatments, amounting to 735.6 USD.",735.6,No,5,CUST9300,High
+fyzn9461,Health Insurance,"Claim related to High-Risk/Long-Term Claims, amounting to 891606.34 USD.",891606.34,Yes,0,CUST5317,High
+sbaa7950,Property Damage,"Claim related to Moderate Damage, amounting to 14263.96 USD.",14263.96,No,0,CUST2344,Low
+dmsq8690,Auto Insurance,"Claim related to Bodily Injury Liability, amounting to 44191.28 USD.",44191.28,Yes,3,CUST1049,Medium
+hzsv1095,Health Insurance,"Claim related to Chronic Illness Treatments, amounting to 163197.1 USD.",163197.1,Yes,1,CUST7709,Medium
+pmxq3208,Auto Insurance,"Claim related to Minor Damage, amounting to 1104.13 USD.",1104.13,No,2,CUST3422,Medium
+zcjw0498,Health Insurance,"Claim related to Chronic Illness Treatments, amounting to 86898.4 USD.",86898.4,Yes,1,CUST1368,Medium
+qqyf8819,Auto Insurance,"Claim related to Bodily Injury Liability, amounting to 57219.86 USD.",57219.86,No,3,CUST6224,Medium
+fkzk2913,Burglary & Theft,"Claim related to Large theft, amounting to 11348.34 USD.",11348.34,No,4,CUST1499,Medium
+xghj4462,Renters Insurance,"Claim related to Temporary Housing, amounting to 5849.07 USD.",5849.07,Yes,4,CUST9351,High
+ootd1446,Burglary & Theft,"Claim related to Small-scale theft, amounting to 2190.65 USD.",2190.65,No,4,CUST8052,Medium
+brcz9025,Renters Insurance,"Claim related to Fire or Smoke Damage, amounting to 36949.38 USD.",36949.38,Yes,3,CUST1927,High
+mtjt1363,Renters Insurance,"Claim related to Temporary Housing, amounting to 7193.16 USD.",7193.16,Yes,4,CUST1023,High
+trvw4740,Renters Insurance,"Claim related to Water Damage, amounting to 2065.08 USD.",2065.08,Yes,2,CUST7921,Medium
+xfuc4220,Renters Insurance,"Claim related to Theft of Electronics/Personal Belongings, amounting to 4634.37 USD.",4634.37,Yes,4,CUST1216,High
+ubea2084,Auto Insurance,"Claim related to Major Collisions, amounting to 56612.09 USD.",56612.09,Yes,0,CUST7181,Medium
+azyv3464,Renters Insurance,"Claim related to Temporary Housing, amounting to 9715.24 USD.",9715.24,Yes,2,CUST3147,Medium
+tcpn2067,Renters Insurance,"Claim related to Theft of Electronics/Personal Belongings, amounting to 1504.77 USD.",1504.77,Yes,4,CUST8785,High
+whro0080,Burglary & Theft,"Claim related to Small-scale theft, amounting to 362.72 USD.",362.72,No,2,CUST2954,Medium
+rscb1869,Health Insurance,"Claim related to High-Risk/Long-Term Claims, amounting to 500722.54 USD.",500722.54,Yes,1,CUST9293,High
+uawz2254,Health Insurance,"Claim related to Chronic Illness Treatments, amounting to 25063.13 USD.",25063.13,No,5,CUST4566,High
+tmwg1078,Burglary & Theft,"Claim related to Small-scale theft, amounting to 1929.09 USD.",1929.09,No,2,CUST4661,Medium
+nmvr8377,Renters Insurance,"Claim related to Temporary Housing, amounting to 10868.35 USD.",10868.35,No,5,CUST1598,High
+ptrm4680,Property Damage,"Claim related to Minor Damage, amounting to 1471.5 USD.",1471.5,No,4,CUST2930,Medium
+vicx9489,Health Insurance,"Claim related to Emergency Room Visit, amounting to 3132.63 USD.",3132.63,No,5,CUST7292,High
+tido4683,Burglary & Theft,"Claim related to Small-scale theft, amounting to 1619.79 USD.",1619.79,Yes,5,CUST7405,High
+bcau1919,Burglary & Theft,"Claim related to Large theft, amounting to 15858.23 USD.",15858.23,Yes,2,CUST9473,Medium
+xavk9059,Auto Insurance,"Claim related to Major Collisions, amounting to 67891.21 USD.",67891.21,Yes,3,CUST3296,High
+ifxk1842,Renters Insurance,"Claim related to Temporary Housing, amounting to 13331.61 USD.",13331.61,No,2,CUST3026,Medium
+hyll2956,Health Insurance,"Claim related to Routine Care/Minor Treatments, amounting to 744.23 USD.",744.23,Yes,4,CUST5257,High
+oywq8841,Health Insurance,"Claim related to Routine Care/Minor Treatments, amounting to 122.6 USD.",122.6,No,1,CUST4425,Low
+xlms8671,Health Insurance,"Claim related to High-Risk/Long-Term Claims, amounting to 325501.51 USD.",325501.51,No,4,CUST3156,High
+wqdj4209,Renters Insurance,"Claim related to Temporary Housing, amounting to 6929.91 USD.",6929.91,Yes,4,CUST9671,High
+irha9489,Health Insurance,"Claim related to High-Risk/Long-Term Claims, amounting to 708104.18 USD.",708104.18,No,2,CUST1868,High
+pfcv7161,Property Damage,"Claim related to Moderate Damage, amounting to 11102.94 USD.",11102.94,Yes,5,CUST7443,High
+ehkz2856,Health Insurance,"Claim related to Surgery/Hospitalization, amounting to 80197.81 USD.",80197.81,Yes,0,CUST6422,Medium
+avak0627,Property Damage,"Claim related to Minor Damage, amounting to 2474.94 USD.",2474.94,Yes,5,CUST2694,High
+wbif5347,Auto Insurance,"Claim related to Bodily Injury Liability, amounting to 87576.41 USD.",87576.41,Yes,2,CUST7746,High
+yyfk0445,Auto Insurance,"Claim related to Totaled Vehicle Replacement, amounting to 12975.13 USD.",12975.13,No,4,CUST1449,Medium
+adei0493,Property Damage,"Claim related to Natural Disasters, amounting to 355431.73 USD.",355431.73,Yes,0,CUST3415,High
+jaqk6836,Burglary & Theft,"Claim related to Business Theft, amounting to 30989.41 USD.",30989.41,Yes,4,CUST3494,High
+btdo5587,Property Damage,"Claim related to Moderate Damage, amounting to 8050.79 USD.",8050.79,No,4,CUST5051,Medium
+ksus3252,Property Damage,"Claim related to Moderate Damage, amounting to 8026.67 USD.",8026.67,Yes,0,CUST6900,Low
+jpws4755,Property Damage,"Claim related to Minor Damage, amounting to 1470.84 USD.",1470.84,Yes,1,CUST2565,Low
+ykbf0239,Health Insurance,"Claim related to Surgery/Hospitalization, amounting to 27259.59 USD.",27259.59,Yes,1,CUST6028,Low
+jiqs6564,Health Insurance,"Claim related to Surgery/Hospitalization, amounting to 43317.96 USD.",43317.96,No,4,CUST6789,Medium
+slbt7247,Burglary & Theft,"Claim related to Small-scale theft, amounting to 2384.92 USD.",2384.92,No,2,CUST9131,Medium
+wecw9484,Auto Insurance,"Claim related to Major Collisions, amounting to 36593.46 USD.",36593.46,No,3,CUST8963,Medium
+offs5075,Renters Insurance,"Claim related to Water Damage, amounting to 1272.5 USD.",1272.5,Yes,2,CUST7210,Medium
+abpe6154,Burglary & Theft,"Claim related to Large theft, amounting to 7621.6 USD.",7621.6,Yes,1,CUST9451,Low
+ybmv0973,Property Damage,"Claim related to Major Structural Damage, amounting to 210916.63 USD.",210916.63,Yes,0,CUST4568,Medium
+mooo1258,Auto Insurance,"Claim related to Bodily Injury Liability, amounting to 51937.66 USD.",51937.66,Yes,3,CUST4456,Medium
+onrj2289,Renters Insurance,"Claim related to Temporary Housing, amounting to 13902.1 USD.",13902.1,Yes,2,CUST5070,Medium
+sonv9708,Renters Insurance,"Claim related to Fire or Smoke Damage, amounting to 9914.7 USD.",9914.7,No,5,CUST1851,High
+ntsj3803,Burglary & Theft,"Claim related to Small-scale theft, amounting to 1864.74 USD.",1864.74,Yes,0,CUST2450,Low

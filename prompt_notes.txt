@@ -1,0 +1,405 @@
+Prompt Engineering Notes – Insurance Claim Summarization & Risk Tagging
+
+Goal:
+To design and iterate a prompt that enables GPT-4 to:
+1. Summarize insurance claims in 2–3 bullet points
+2. Assign a risk level (Low, Medium, or High)
+3. Justify the risk level based on a clearly defined ruleset
+
+The goal was to ensure outputs are consistent, aligned with our manual rule-based logic, and easily parseable for downstream JSON logging.
+
+Iteration 1 – Basic Prompt (No Rules):
+
+You are an assistant reviewing multiple insurance claims. For each claim, provide:
+
+1. A 2–3 bullet summary
+2. The risk level (Low, Medium, or High)
+3. Your reasoning for that risk level
+
+Format each output like this:
+Claim ID: <CLAIM_ID>
+Summary:
+
+Risk Level: <Low/Medium/High>
+Reason:
+
+Here are the claims:
+--
+--
+
+Notes and Observations:
+
+What Worked:
+- Simple and fast to test
+- GPT produced summaries and risk tags with ease
+
+What Didn’t:
+- No consistency — GPT interpreted risk subjectively
+- No reference to our actual business rules
+- Different outputs for similar inputs
+
+Iteration 2 – Introduced Rule-Based Logic:
+
+You are an assistant reviewing multiple insurance claims. For each claim, provide:
+
+
+1. A 2–3 bullet summary, 
+2. The risk level (Low, Medium, or High), 
+3. Your reasoning for that risk level,
+based on the rules given below:
+1. HIGH RISK
+
+A claim will be considered HIGH RISK if any one of the following conditions is met:
+
+- prior_claims >= 5
+- prior_claims >= 4 AND urgency == "Yes"
+- amount > upper threshold for claim type (defined below)
+- urgency == "Yes" AND prior_claims >= 3 AND amount in upper third of range
+BY TYPE:
+- Health Insurance: amount > 250,000
+- Auto Insurance: amount > 75,000
+- Renters Insurance: amount > 25,000
+- Burglary & Theft: amount > 25,000
+- Property Damage: amount > 250,000
+
+2. MEDIUM RISK
+
+A claim will be considered MEDIUM RISK if any of the following apply:
+
+- prior_claims == 2 or 3
+- urgency == "Yes" and amount in mid-range
+- amount near upper limit but urgency == "No"
+- urgency == "No" AND prior_claims >= 4
+BY TYPE:
+- Health Insurance: 50,000 < amount <= 250,000
+- Auto Insurance: 35,000 < amount <= 75,000
+- Renters Insurance: 10,000 < amount <= 25,000
+- Burglary & Theft: 10,000 < amount <= 25,000
+- Property Damage: 75,000 < amount <= 250,000
+
+3. LOW RISK
+
+A claim will be considered LOW RISK if all of the following are true:
+
+- prior_claims <= 1
+- amount in low-mid range (see below)
+BY TYPE:
+- Health Insurance: amount <= 50,000
+- Auto Insurance: amount <= 35,000
+- Renters Insurance: amount <= 10,000
+- Burglary & Theft: amount <= 10,000
+- Property Damage: amount <= 75,000
+
+
+Format each output like this:
+Claim ID: <CLAIM_ID>
+Summary:
+
+Risk Level: <Low/Medium/High>
+Reason:
+
+Here are the claims:
+--
+--
+
+Notes and Observations:
+This prompt included full risk rules for High, Medium, and Low categories with thresholds by claim type.
+
+What Worked:
+- GPT started referencing rules correctly
+- Outputs improved in alignment with defined ranges
+- Summaries and reasons became more structured
+
+What Didn’t:
+- GPT sometimes assigned Medium even when High criteria were met
+- Needed clearer instructions on risk level priority
+
+Iteration 3 – Reinforced Risk Evaluation Order & Priority:
+
+You are an assistant reviewing multiple insurance claims. For each claim, provide:
+
+1. A 2–3 bullet summary, 
+2. The risk level (Low, Medium, or High), 
+3. Your reasoning for that risk level,
+based on the rules given below:
+
+1. HIGH RISK
+
+A claim will be considered HIGH RISK if any one of the following conditions is met:
+
+- prior_claims >= 5
+- prior_claims >= 4 AND urgency == "Yes"
+- amount > upper threshold for claim type (defined below)
+- urgency == "Yes" AND prior_claims >= 3 AND amount in upper third of range
+BY TYPE:
+- Health Insurance: amount > 250,000
+- Auto Insurance: amount > 75,000
+- Renters Insurance: amount > 25,000
+- Burglary & Theft: amount > 25,000
+- Property Damage: amount > 250,000
+
+2. MEDIUM RISK
+
+A claim will be considered MEDIUM RISK if any of the following apply:
+
+- prior_claims == 2 or 3
+- urgency == "Yes" and amount in mid-range
+- amount near upper limit but urgency == "No"
+- urgency == "No" AND prior_claims >= 4
+BY TYPE:
+- Health Insurance: 50,000 < amount <= 250,000
+- Auto Insurance: 35,000 < amount <= 75,000
+- Renters Insurance: 10,000 < amount <= 25,000
+- Burglary & Theft: 10,000 < amount <= 25,000
+- Property Damage: 75,000 < amount <= 250,000
+
+3. LOW RISK
+
+A claim will be considered LOW RISK if all of the following are true:
+
+- prior_claims <= 1
+- amount in low-mid range (see below)
+BY TYPE:
+- Health Insurance: amount <= 50,000
+- Auto Insurance: amount <= 35,000
+- Renters Insurance: amount <= 10,000
+- Burglary & Theft: amount <= 10,000
+- Property Damage: amount <= 75,000
+
+IMPORTANT INSTRUCTIONS:
+- Always match risk level exactly to the conditions below.
+- If a claim does not meet any High risk rule, do not label it as High risk. Likewise, only label Medium if it matches a Medium rule.
+- If multiple rules match, choose the highest applicable risk level (High > Medium > Low).
+- Do not mix rules. 
+
+Format each output like this:
+Claim ID: <CLAIM_ID>
+Summary:
+
+Risk Level: <Low/Medium/High>
+Reason:
+
+Here are the claims:
+--
+--
+
+Notes and Observations:
+This prompt added explicit instructions to:
+- Always evaluate High -> Medium -> Low
+- If multiple rules match, assign the highest applicable level
+- Do not assign Medium/Low if High applies
+
+What Worked:
+- GPT started applying the hierarchy better
+- Fewer mismatches between our JSON and GPT output
+- Reduced rule mixing
+
+What Didn’t:
+- GPT still occasionally defaulted to Medium when both Medium and High matched
+
+Iteration 4 – Final Iteration (Used for All Batches):
+
+You are an assistant reviewing multiple insurance claims. For each claim, provide:
+
+1. A 2–3 bullet summary, 
+2. The risk level (Low, Medium, or High), 
+3. Your reasoning for that risk level,
+based on the rules given below:
+
+1. HIGH RISK
+
+A claim will be considered HIGH RISK if any one of the following conditions is met:
+
+- prior_claims >= 5
+- prior_claims >= 4 AND urgency == "Yes"
+- amount > upper threshold for claim type (defined below)
+- urgency == "Yes" AND prior_claims >= 3 AND amount in upper third of range
+BY TYPE:
+- Health Insurance: amount > 250,000
+- Auto Insurance: amount > 75,000
+- Renters Insurance: amount > 25,000
+- Burglary & Theft: amount > 25,000
+- Property Damage: amount > 250,000
+
+2. MEDIUM RISK
+
+A claim will be considered MEDIUM RISK if any of the following apply:
+
+- prior_claims == 2 or 3
+- urgency == "Yes" and amount in mid-range
+- amount near upper limit but urgency == "No"
+- urgency == "No" AND prior_claims >= 4
+BY TYPE:
+- Health Insurance: 50,000 < amount <= 250,000
+- Auto Insurance: 35,000 < amount <= 75,000
+- Renters Insurance: 10,000 < amount <= 25,000
+- Burglary & Theft: 10,000 < amount <= 25,000
+- Property Damage: 75,000 < amount <= 250,000
+
+3. LOW RISK
+
+A claim will be considered LOW RISK if all of the following are true:
+
+- prior_claims <= 1
+- amount in low-mid range (see below)
+BY TYPE:
+- Health Insurance: amount <= 50,000
+- Auto Insurance: amount <= 35,000
+- Renters Insurance: amount <= 10,000
+- Burglary & Theft: amount <= 10,000
+- Property Damage: amount <= 75,000
+
+IMPORTANT INSTRUCTIONS:
+- Always evaluate rules in order: High -> Medium -> Low
+- If multiple rules match, choose the highest applicable risk level (High > Medium > Low).
+- Do not assign Medium or Low risk if a High Risk rule is satisfied.
+- Always match risk level exactly to the conditions given.
+- Do not mix rules. 
+
+Format each output like this:
+Claim ID: <CLAIM_ID>
+Summary:
+
+Risk Level: <Low/Medium/High>
+Reason:
+
+Here are the claims:
+--
+--
+
+Notes and Observations:
+
+Prompt included same ruleset as Iteration 3, with these key reinforcements:
+- “Do not assign Medium or Low if High applies”
+- “Always match exactly to the conditions given”
+- Re-emphasized not to mix logic
+
+What Worked:
+- GPT finally started treating overlapping rule matches properly
+- Stable across larger batches (20 claims at once)
+- Aligns closely with manual rule application
+- Works cleanly with batch input/output extraction and parsing
+
+Remaining Edge Cases:
+- GPT may still require minor prompt clarification if deployed via API
+
+Iteration 5 – Defined “Upper Third of Range” Mathematically
+
+You are an assistant reviewing multiple insurance claims. For each claim, provide:
+
+1. A 2–3 bullet summary, 
+2. The risk level (Low, Medium, or High), 
+3. Your reasoning for that risk level,
+based on the rules given below:
+
+1. HIGH RISK
+
+A claim will be considered HIGH RISK if any one of the following conditions is met:
+
+- prior_claims >= 5
+- prior_claims >= 4 AND urgency == "Yes"
+- amount > upper threshold for claim type (defined below)
+- urgency == "Yes" AND prior_claims >= 3 AND amount in upper third of range
+upper third of range = upper threshold - (upper threshold - lower threshold) / 3
+
+BY TYPE:
+- Health Insurance: amount > 250,000
+- Auto Insurance: amount > 75,000
+- Renters Insurance: amount > 25,000
+- Burglary & Theft: amount > 25,000
+- Property Damage: amount > 250,000
+
+2. MEDIUM RISK
+
+A claim will be considered MEDIUM RISK if any of the following apply:
+
+- prior_claims == 2 or 3
+- urgency == "Yes" and amount in mid-range
+- amount near upper limit but urgency == "No"
+- urgency == "No" AND prior_claims >= 4
+BY TYPE:
+- Health Insurance: 50,000 < amount <= 250,000
+- Auto Insurance: 35,000 < amount <= 75,000
+- Renters Insurance: 10,000 < amount <= 25,000
+- Burglary & Theft: 10,000 < amount <= 25,000
+- Property Damage: 75,000 < amount <= 250,000
+
+3. LOW RISK
+
+A claim will be considered LOW RISK if all of the following are true:
+
+- prior_claims <= 1
+- amount in lower range (see below) 
+BY TYPE:
+- Health Insurance: amount <= 50,000
+- Auto Insurance: amount <= 35,000
+- Renters Insurance: amount <= 10,000
+- Burglary & Theft: amount <= 10,000
+- Property Damage: amount <= 75,000
+
+IMPORTANT INSTRUCTIONS:
+- Always evaluate rules in order: High -> Medium -> Low
+- If multiple rules match, choose the highest applicable risk level (High > Medium > Low).
+- Do not assign Medium or Low risk if a High Risk rule is satisfied.
+- Always match risk level exactly to the conditions given.
+- Do not mix rules. 
+
+Format each output like this:
+Claim ID: <CLAIM_ID>
+Summary:
+
+Risk Level: <Low/Medium/High>
+Reason:
+
+
+Here are the claims:
+--
+--
+
+Notes and Observations:
+
+This version introduced a concrete formula for evaluating the “upper third”:
+> upper third of range = upper threshold - (upper threshold - lower threshold) / 3
+The rule logic itself remained unchanged, but this definition made it easier for GPT to understand how to calculate and apply the "upper third" without ambiguity.
+
+What Worked:
+- Removed ambiguity around the phrase “upper third of range”
+- Helped GPT consistently identify High risk conditions when prior_claims ≥ 3 and urgency == "Yes"
+- Further reduced mismatches in borderline cases
+- Prompt is now mathematically grounded, scalable, and audit-friendly
+
+Example Clarity:
+- GPT could now deduce that for Auto Insurance:
+  - Upper = 75,000
+  - Lower = 35,000
+  - So upper third starts at: 75,000 - (75,000 - 35,000)/3 = 61,667
+- All prior instructions retained: strict evaluation order, no rule mixing, match conditions exactly
+
+---
+
+
+Summary of Prompt Evolution:
+
+Iteration 1:
+Key Focus: Simplicity, no rules
+Notes: Too vague, inaccurate risk levels
+
+Iteration 2:
+Key Focus: Introduced full ruleset
+Notes: Better accuracy, but priority logic missing
+
+Iteration 3:
+Key Focus: Enforced High > Medium > Low hierarchy
+Notes: Major improvement, reduced mismatches
+
+Iteration 4:
+Key Focus: Final structure + stricter instructions
+Notes: Stable, reliable for batch automation
+
+Iteration 5:
+Key Focus: Defined "upper third" numerically
+Notes: Resolved final edge case, fully automation-ready
+
+
+Status: Final prompt logic (Iteration 5) is stable and ready for project automation.
+

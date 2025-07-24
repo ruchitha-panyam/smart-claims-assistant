@@ -1,0 +1,40 @@
+Insurance Claim Risk Classification Strategy
+
+This document outlines the logic used to classify insurance claims into High, Medium, or Low Risk levels based on structured rules.
+
+Risk Rules:
+
+R1: High - prior_claims >= 5
+R2: High - prior_claims >= 4 AND urgency == "Yes"
+R3: High - amount > upper threshold for claim type
+R4: High - urgency == "Yes" AND prior_claims >= 3 AND amount in upper third range
+R5: Medium - prior_claims == 2 or 3
+R6: Medium - urgency == "Yes" AND amount in mid-range for claim type
+R7: Medium - amount near upper limit AND urgency == "No"
+R8: Medium - prior_claims >= 4 AND urgency == "No"
+R9: Low - prior_claims <= 1 AND amount in low-mid range
+
+Claim Type Thresholds:
+
+Health Insurance - Low Range: 50,000 | High Range: 250,000
+Auto Insurance - Low Range: 35,000 | High Range: 75,000
+Renters Insurance - Low Range: 10,000 | High Range: 25,000
+Burglary & Theft - Low Range: 10,000 | High Range: 25,000
+Property Damage - Low Range: 75,000 | High Range: 250,000
+
+Evaluation Priority:
+- Always evaluate in order: High -> Medium -> Low
+- Assign the highest matching risk level
+- Do not mix rules
+
+Example Mapping:
+
+- Claim ID: ggfv0975 
+- Type: Health Insurance  
+- Amount: 878262.73  
+- Prior Claims: 3  
+- Urgency: Yes  
+- Risk Level: High (Amount exceeds High threshold)
+
+Purpose:
+This classification helps prioritize risk review workflows and flag high-risk claims early in the pipeline.

@@ -1,0 +1,902 @@
+
+--- Claim ID: lutw4250 ---
+Type: Burglary & Theft
+Description: Claim related to Large theft, amounting to 10827.15 USD.
+Amount: 10827.15
+Urgency: No
+Prior Claims: 2
+
+
+
+--- Claim ID: ydvs5228 ---
+Type: Auto Insurance
+Description: Claim related to Bodily Injury Liability, amounting to 87224.78 USD.
+Amount: 87224.78
+Urgency: Yes
+Prior Claims: 5
+
+
+
+--- Claim ID: kosm1767 ---
+Type: Burglary & Theft
+Description: Claim related to Business Theft, amounting to 85182.7 USD.
+Amount: 85182.7
+Urgency: No
+Prior Claims: 3
+
+
+
+--- Claim ID: pckq0778 ---
+Type: Burglary & Theft
+Description: Claim related to Small-scale theft, amounting to 612.58 USD.
+Amount: 612.58
+Urgency: Yes
+Prior Claims: 2
+
+
+
+--- Claim ID: kedg6130 ---
+Type: Health Insurance
+Description: Claim related to Routine Care/Minor Treatments, amounting to 570.55 USD.
+Amount: 570.55
+Urgency: No
+Prior Claims: 4
+
+
+
+--- Claim ID: kxus6793 ---
+Type: Auto Insurance
+Description: Claim related to Totaled Vehicle Replacement, amounting to 16878.73 USD.
+Amount: 16878.73
+Urgency: No
+Prior Claims: 5
+
+
+
+--- Claim ID: oddb6232 ---
+Type: Burglary & Theft
+Description: Claim related to Large theft, amounting to 13764.57 USD.
+Amount: 13764.57
+Urgency: Yes
+Prior Claims: 3
+
+
+
+--- Claim ID: lpbs1056 ---
+Type: Renters Insurance
+Description: Claim related to Fire or Smoke Damage, amounting to 10423.67 USD.
+Amount: 10423.67
+Urgency: No
+Prior Claims: 4
+
+
+
+--- Claim ID: bmcw3488 ---
+Type: Renters Insurance
+Description: Claim related to Temporary Housing, amounting to 5257.36 USD.
+Amount: 5257.36
+Urgency: No
+Prior Claims: 5
+
+
+
+--- Claim ID: yltx9077 ---
+Type: Health Insurance
+Description: Claim related to Surgery/Hospitalization, amounting to 91681.65 USD.
+Amount: 91681.65
+Urgency: Yes
+Prior Claims: 5
+
+
+
+--- Claim ID: shmg4467 ---
+Type: Auto Insurance
+Description: Claim related to Minor Damage, amounting to 1845.5 USD.
+Amount: 1845.5
+Urgency: No
+Prior Claims: 5
+
+
+
+--- Claim ID: gank6704 ---
+Type: Property Damage
+Description: Claim related to Moderate Damage, amounting to 13593.19 USD.
+Amount: 13593.19
+Urgency: No
+Prior Claims: 2
+
+
+
+--- Claim ID: vegp8645 ---
+Type: Property Damage
+Description: Claim related to Moderate Damage, amounting to 14893.57 USD.
+Amount: 14893.57
+Urgency: No
+Prior Claims: 4
+
+
+
+--- Claim ID: fmiq6046 ---
+Type: Health Insurance
+Description: Claim related to Emergency Room Visit, amounting to 1329.59 USD.
+Amount: 1329.59
+Urgency: Yes
+Prior Claims: 0
+
+
+
+--- Claim ID: ggfv0975 ---
+Type: Health Insurance
+Description: Claim related to High-Risk/Long-Term Claims, amounting to 878262.73 USD.
+Amount: 878262.73
+Urgency: Yes
+Prior Claims: 3
+
+
+
+--- Claim ID: gdsq6572 ---
+Type: Burglary & Theft
+Description: Claim related to Large theft, amounting to 9277.87 USD.
+Amount: 9277.87
+Urgency: No
+Prior Claims: 0
+
+
+
+--- Claim ID: tdtp7664 ---
+Type: Renters Insurance
+Description: Claim related to Fire or Smoke Damage, amounting to 6726.98 USD.
+Amount: 6726.98
+Urgency: Yes
+Prior Claims: 5
+
+
+
+--- Claim ID: jmnx4017 ---
+Type: Burglary & Theft
+Description: Claim related to Small-scale theft, amounting to 894.74 USD.
+Amount: 894.74
+Urgency: No
+Prior Claims: 3
+
+
+
+--- Claim ID: zurx3979 ---
+Type: Auto Insurance
+Description: Claim related to Totaled Vehicle Replacement, amounting to 32741.79 USD.
+Amount: 32741.79
+Urgency: Yes
+Prior Claims: 0
+
+
+
+--- Claim ID: ucgn1014 ---
+Type: Property Damage
+Description: Claim related to Moderate Damage, amounting to 14716.66 USD.
+Amount: 14716.66
+Urgency: No
+Prior Claims: 1
+
+
+
+--- Claim ID: gafd8466 ---
+Type: Health Insurance
+Description: Claim related to Routine Care/Minor Treatments, amounting to 298.38 USD.
+Amount: 298.38
+Urgency: Yes
+Prior Claims: 2
+
+
+
+--- Claim ID: vpqb1939 ---
+Type: Auto Insurance
+Description: Claim related to Bodily Injury Liability, amounting to 17012.84 USD.
+Amount: 17012.84
+Urgency: No
+Prior Claims: 4
+
+
+
+--- Claim ID: smtr6269 ---
+Type: Property Damage
+Description: Claim related to Minor Damage, amounting to 2343.2 USD.
+Amount: 2343.2
+Urgency: No
+Prior Claims: 3
+
+
+
+--- Claim ID: jiaw2010 ---
+Type: Health Insurance
+Description: Claim related to Routine Care/Minor Treatments, amounting to 142.19 USD.
+Amount: 142.19
+Urgency: Yes
+Prior Claims: 4
+
+
+
+--- Claim ID: rtup2069 ---
+Type: Health Insurance
+Description: Claim related to High-Risk/Long-Term Claims, amounting to 419347.84 USD.
+Amount: 419347.84
+Urgency: No
+Prior Claims: 0
+
+
+
+--- Claim ID: axfc4764 ---
+Type: Health Insurance
+Description: Claim related to Routine Care/Minor Treatments, amounting to 479.48 USD.
+Amount: 479.48
+Urgency: Yes
+Prior Claims: 0
+
+
+
+--- Claim ID: cavz8927 ---
+Type: Renters Insurance
+Description: Claim related to Water Damage, amounting to 1277.89 USD.
+Amount: 1277.89
+Urgency: Yes
+Prior Claims: 0
+
+
+
+--- Claim ID: gkmd8245 ---
+Type: Renters Insurance
+Description: Claim related to Fire or Smoke Damage, amounting to 29960.08 USD.
+Amount: 29960.08
+Urgency: Yes
+Prior Claims: 0
+
+
+
+--- Claim ID: tzvv5180 ---
+Type: Burglary & Theft
+Description: Claim related to Large theft, amounting to 15938.77 USD.
+Amount: 15938.77
+Urgency: Yes
+Prior Claims: 0
+
+
+
+--- Claim ID: rehm7899 ---
+Type: Burglary & Theft
+Description: Claim related to Business Theft, amounting to 97974.11 USD.
+Amount: 97974.11
+Urgency: Yes
+Prior Claims: 2
+
+
+
+--- Claim ID: kktf0335 ---
+Type: Auto Insurance
+Description: Claim related to Moderate Accidents, amounting to 8903.98 USD.
+Amount: 8903.98
+Urgency: No
+Prior Claims: 0
+
+
+
+--- Claim ID: jquj9050 ---
+Type: Burglary & Theft
+Description: Claim related to Small-scale theft, amounting to 433.5 USD.
+Amount: 433.5
+Urgency: Yes
+Prior Claims: 0
+
+
+
+--- Claim ID: rpfq9087 ---
+Type: Property Damage
+Description: Claim related to Minor Damage, amounting to 1217.4 USD.
+Amount: 1217.4
+Urgency: No
+Prior Claims: 2
+
+
+
+--- Claim ID: dtso6762 ---
+Type: Auto Insurance
+Description: Claim related to Moderate Accidents, amounting to 6995.01 USD.
+Amount: 6995.01
+Urgency: No
+Prior Claims: 3
+
+
+
+--- Claim ID: ditk1477 ---
+Type: Property Damage
+Description: Claim related to Natural Disasters, amounting to 310191.1 USD.
+Amount: 310191.1
+Urgency: No
+Prior Claims: 1
+
+
+
+--- Claim ID: vtda1734 ---
+Type: Health Insurance
+Description: Claim related to Chronic Illness Treatments, amounting to 138713.28 USD.
+Amount: 138713.28
+Urgency: Yes
+Prior Claims: 4
+
+
+
+--- Claim ID: hbco1032 ---
+Type: Property Damage
+Description: Claim related to Major Structural Damage, amounting to 131989.06 USD.
+Amount: 131989.06
+Urgency: No
+Prior Claims: 1
+
+
+
+--- Claim ID: mrwh8826 ---
+Type: Health Insurance
+Description: Claim related to High-Risk/Long-Term Claims, amounting to 832016.22 USD.
+Amount: 832016.22
+Urgency: Yes
+Prior Claims: 4
+
+
+
+--- Claim ID: fbbh3459 ---
+Type: Health Insurance
+Description: Claim related to Emergency Room Visit, amounting to 4396.67 USD.
+Amount: 4396.67
+Urgency: No
+Prior Claims: 2
+
+
+
+--- Claim ID: egjs7074 ---
+Type: Property Damage
+Description: Claim related to Major Structural Damage, amounting to 69722.67 USD.
+Amount: 69722.67
+Urgency: Yes
+Prior Claims: 3
+
+
+
+--- Claim ID: ocgf5247 ---
+Type: Health Insurance
+Description: Claim related to Chronic Illness Treatments, amounting to 89472.51 USD.
+Amount: 89472.51
+Urgency: No
+Prior Claims: 3
+
+
+
+--- Claim ID: onlk2528 ---
+Type: Auto Insurance
+Description: Claim related to Moderate Accidents, amounting to 10468.31 USD.
+Amount: 10468.31
+Urgency: Yes
+Prior Claims: 4
+
+
+
+--- Claim ID: vhiu1585 ---
+Type: Property Damage
+Description: Claim related to Minor Damage, amounting to 2022.78 USD.
+Amount: 2022.78
+Urgency: Yes
+Prior Claims: 1
+
+
+
+--- Claim ID: wpuk6283 ---
+Type: Health Insurance
+Description: Claim related to Emergency Room Visit, amounting to 3992.26 USD.
+Amount: 3992.26
+Urgency: No
+Prior Claims: 1
+
+
+
+--- Claim ID: sbuk4784 ---
+Type: Property Damage
+Description: Claim related to Minor Damage, amounting to 867.97 USD.
+Amount: 867.97
+Urgency: Yes
+Prior Claims: 3
+
+
+
+--- Claim ID: gmiu6778 ---
+Type: Health Insurance
+Description: Claim related to Routine Care/Minor Treatments, amounting to 735.6 USD.
+Amount: 735.6
+Urgency: No
+Prior Claims: 5
+
+
+
+--- Claim ID: fyzn9461 ---
+Type: Health Insurance
+Description: Claim related to High-Risk/Long-Term Claims, amounting to 891606.34 USD.
+Amount: 891606.34
+Urgency: Yes
+Prior Claims: 0
+
+
+
+--- Claim ID: sbaa7950 ---
+Type: Property Damage
+Description: Claim related to Moderate Damage, amounting to 14263.96 USD.
+Amount: 14263.96
+Urgency: No
+Prior Claims: 0
+
+
+
+--- Claim ID: dmsq8690 ---
+Type: Auto Insurance
+Description: Claim related to Bodily Injury Liability, amounting to 44191.28 USD.
+Amount: 44191.28
+Urgency: Yes
+Prior Claims: 3
+
+
+
+--- Claim ID: hzsv1095 ---
+Type: Health Insurance
+Description: Claim related to Chronic Illness Treatments, amounting to 163197.1 USD.
+Amount: 163197.1
+Urgency: Yes
+Prior Claims: 1
+
+
+
+--- Claim ID: pmxq3208 ---
+Type: Auto Insurance
+Description: Claim related to Minor Damage, amounting to 1104.13 USD.
+Amount: 1104.13
+Urgency: No
+Prior Claims: 2
+
+
+
+--- Claim ID: zcjw0498 ---
+Type: Health Insurance
+Description: Claim related to Chronic Illness Treatments, amounting to 86898.4 USD.
+Amount: 86898.4
+Urgency: Yes
+Prior Claims: 1
+
+
+
+--- Claim ID: qqyf8819 ---
+Type: Auto Insurance
+Description: Claim related to Bodily Injury Liability, amounting to 57219.86 USD.
+Amount: 57219.86
+Urgency: No
+Prior Claims: 3
+
+
+
+--- Claim ID: fkzk2913 ---
+Type: Burglary & Theft
+Description: Claim related to Large theft, amounting to 11348.34 USD.
+Amount: 11348.34
+Urgency: No
+Prior Claims: 4
+
+
+
+--- Claim ID: xghj4462 ---
+Type: Renters Insurance
+Description: Claim related to Temporary Housing, amounting to 5849.07 USD.
+Amount: 5849.07
+Urgency: Yes
+Prior Claims: 4
+
+
+
+--- Claim ID: ootd1446 ---
+Type: Burglary & Theft
+Description: Claim related to Small-scale theft, amounting to 2190.65 USD.
+Amount: 2190.65
+Urgency: No
+Prior Claims: 4
+
+
+
+--- Claim ID: brcz9025 ---
+Type: Renters Insurance
+Description: Claim related to Fire or Smoke Damage, amounting to 36949.38 USD.
+Amount: 36949.38
+Urgency: Yes
+Prior Claims: 3
+
+
+
+--- Claim ID: mtjt1363 ---
+Type: Renters Insurance
+Description: Claim related to Temporary Housing, amounting to 7193.16 USD.
+Amount: 7193.16
+Urgency: Yes
+Prior Claims: 4
+
+
+
+--- Claim ID: trvw4740 ---
+Type: Renters Insurance
+Description: Claim related to Water Damage, amounting to 2065.08 USD.
+Amount: 2065.08
+Urgency: Yes
+Prior Claims: 2
+
+
+
+--- Claim ID: xfuc4220 ---
+Type: Renters Insurance
+Description: Claim related to Theft of Electronics/Personal Belongings, amounting to 4634.37 USD.
+Amount: 4634.37
+Urgency: Yes
+Prior Claims: 4
+
+
+
+--- Claim ID: ubea2084 ---
+Type: Auto Insurance
+Description: Claim related to Major Collisions, amounting to 56612.09 USD.
+Amount: 56612.09
+Urgency: Yes
+Prior Claims: 0
+
+
+
+--- Claim ID: azyv3464 ---
+Type: Renters Insurance
+Description: Claim related to Temporary Housing, amounting to 9715.24 USD.
+Amount: 9715.24
+Urgency: Yes
+Prior Claims: 2
+
+
+
+--- Claim ID: tcpn2067 ---
+Type: Renters Insurance
+Description: Claim related to Theft of Electronics/Personal Belongings, amounting to 1504.77 USD.
+Amount: 1504.77
+Urgency: Yes
+Prior Claims: 4
+
+
+
+--- Claim ID: whro0080 ---
+Type: Burglary & Theft
+Description: Claim related to Small-scale theft, amounting to 362.72 USD.
+Amount: 362.72
+Urgency: No
+Prior Claims: 2
+
+
+
+--- Claim ID: rscb1869 ---
+Type: Health Insurance
+Description: Claim related to High-Risk/Long-Term Claims, amounting to 500722.54 USD.
+Amount: 500722.54
+Urgency: Yes
+Prior Claims: 1
+
+
+
+--- Claim ID: uawz2254 ---
+Type: Health Insurance
+Description: Claim related to Chronic Illness Treatments, amounting to 25063.13 USD.
+Amount: 25063.13
+Urgency: No
+Prior Claims: 5
+
+
+
+--- Claim ID: tmwg1078 ---
+Type: Burglary & Theft
+Description: Claim related to Small-scale theft, amounting to 1929.09 USD.
+Amount: 1929.09
+Urgency: No
+Prior Claims: 2
+
+
+
+--- Claim ID: nmvr8377 ---
+Type: Renters Insurance
+Description: Claim related to Temporary Housing, amounting to 10868.35 USD.
+Amount: 10868.35
+Urgency: No
+Prior Claims: 5
+
+
+
+--- Claim ID: ptrm4680 ---
+Type: Property Damage
+Description: Claim related to Minor Damage, amounting to 1471.5 USD.
+Amount: 1471.5
+Urgency: No
+Prior Claims: 4
+
+
+
+--- Claim ID: vicx9489 ---
+Type: Health Insurance
+Description: Claim related to Emergency Room Visit, amounting to 3132.63 USD.
+Amount: 3132.63
+Urgency: No
+Prior Claims: 5
+
+
+
+--- Claim ID: tido4683 ---
+Type: Burglary & Theft
+Description: Claim related to Small-scale theft, amounting to 1619.79 USD.
+Amount: 1619.79
+Urgency: Yes
+Prior Claims: 5
+
+
+
+--- Claim ID: bcau1919 ---
+Type: Burglary & Theft
+Description: Claim related to Large theft, amounting to 15858.23 USD.
+Amount: 15858.23
+Urgency: Yes
+Prior Claims: 2
+
+
+
+--- Claim ID: xavk9059 ---
+Type: Auto Insurance
+Description: Claim related to Major Collisions, amounting to 67891.21 USD.
+Amount: 67891.21
+Urgency: Yes
+Prior Claims: 3
+
+
+
+--- Claim ID: ifxk1842 ---
+Type: Renters Insurance
+Description: Claim related to Temporary Housing, amounting to 13331.61 USD.
+Amount: 13331.61
+Urgency: No
+Prior Claims: 2
+
+
+
+--- Claim ID: hyll2956 ---
+Type: Health Insurance
+Description: Claim related to Routine Care/Minor Treatments, amounting to 744.23 USD.
+Amount: 744.23
+Urgency: Yes
+Prior Claims: 4
+
+
+
+--- Claim ID: oywq8841 ---
+Type: Health Insurance
+Description: Claim related to Routine Care/Minor Treatments, amounting to 122.6 USD.
+Amount: 122.6
+Urgency: No
+Prior Claims: 1
+
+
+
+--- Claim ID: xlms8671 ---
+Type: Health Insurance
+Description: Claim related to High-Risk/Long-Term Claims, amounting to 325501.51 USD.
+Amount: 325501.51
+Urgency: No
+Prior Claims: 4
+
+
+
+--- Claim ID: wqdj4209 ---
+Type: Renters Insurance
+Description: Claim related to Temporary Housing, amounting to 6929.91 USD.
+Amount: 6929.91
+Urgency: Yes
+Prior Claims: 4
+
+
+
+--- Claim ID: irha9489 ---
+Type: Health Insurance
+Description: Claim related to High-Risk/Long-Term Claims, amounting to 708104.18 USD.
+Amount: 708104.18
+Urgency: No
+Prior Claims: 2
+
+
+
+--- Claim ID: pfcv7161 ---
+Type: Property Damage
+Description: Claim related to Moderate Damage, amounting to 11102.94 USD.
+Amount: 11102.94
+Urgency: Yes
+Prior Claims: 5
+
+
+
+--- Claim ID: ehkz2856 ---
+Type: Health Insurance
+Description: Claim related to Surgery/Hospitalization, amounting to 80197.81 USD.
+Amount: 80197.81
+Urgency: Yes
+Prior Claims: 0
+
+
+
+--- Claim ID: avak0627 ---
+Type: Property Damage
+Description: Claim related to Minor Damage, amounting to 2474.94 USD.
+Amount: 2474.94
+Urgency: Yes
+Prior Claims: 5
+
+
+
+--- Claim ID: wbif5347 ---
+Type: Auto Insurance
+Description: Claim related to Bodily Injury Liability, amounting to 87576.41 USD.
+Amount: 87576.41
+Urgency: Yes
+Prior Claims: 2
+
+
+
+--- Claim ID: yyfk0445 ---
+Type: Auto Insurance
+Description: Claim related to Totaled Vehicle Replacement, amounting to 12975.13 USD.
+Amount: 12975.13
+Urgency: No
+Prior Claims: 4
+
+
+
+--- Claim ID: adei0493 ---
+Type: Property Damage
+Description: Claim related to Natural Disasters, amounting to 355431.73 USD.
+Amount: 355431.73
+Urgency: Yes
+Prior Claims: 0
+
+
+
+--- Claim ID: jaqk6836 ---
+Type: Burglary & Theft
+Description: Claim related to Business Theft, amounting to 30989.41 USD.
+Amount: 30989.41
+Urgency: Yes
+Prior Claims: 4
+
+
+
+--- Claim ID: btdo5587 ---
+Type: Property Damage
+Description: Claim related to Moderate Damage, amounting to 8050.79 USD.
+Amount: 8050.79
+Urgency: No
+Prior Claims: 4
+
+
+
+--- Claim ID: ksus3252 ---
+Type: Property Damage
+Description: Claim related to Moderate Damage, amounting to 8026.67 USD.
+Amount: 8026.67
+Urgency: Yes
+Prior Claims: 0
+
+
+
+--- Claim ID: jpws4755 ---
+Type: Property Damage
+Description: Claim related to Minor Damage, amounting to 1470.84 USD.
+Amount: 1470.84
+Urgency: Yes
+Prior Claims: 1
+
+
+
+--- Claim ID: ykbf0239 ---
+Type: Health Insurance
+Description: Claim related to Surgery/Hospitalization, amounting to 27259.59 USD.
+Amount: 27259.59
+Urgency: Yes
+Prior Claims: 1
+
+
+
+--- Claim ID: jiqs6564 ---
+Type: Health Insurance
+Description: Claim related to Surgery/Hospitalization, amounting to 43317.96 USD.
+Amount: 43317.96
+Urgency: No
+Prior Claims: 4
+
+
+
+--- Claim ID: slbt7247 ---
+Type: Burglary & Theft
+Description: Claim related to Small-scale theft, amounting to 2384.92 USD.
+Amount: 2384.92
+Urgency: No
+Prior Claims: 2
+
+
+
+--- Claim ID: wecw9484 ---
+Type: Auto Insurance
+Description: Claim related to Major Collisions, amounting to 36593.46 USD.
+Amount: 36593.46
+Urgency: No
+Prior Claims: 3
+
+
+
+--- Claim ID: offs5075 ---
+Type: Renters Insurance
+Description: Claim related to Water Damage, amounting to 1272.5 USD.
+Amount: 1272.5
+Urgency: Yes
+Prior Claims: 2
+
+
+
+--- Claim ID: abpe6154 ---
+Type: Burglary & Theft
+Description: Claim related to Large theft, amounting to 7621.6 USD.
+Amount: 7621.6
+Urgency: Yes
+Prior Claims: 1
+
+
+
+--- Claim ID: ybmv0973 ---
+Type: Property Damage
+Description: Claim related to Major Structural Damage, amounting to 210916.63 USD.
+Amount: 210916.63
+Urgency: Yes
+Prior Claims: 0
+
+
+
+--- Claim ID: mooo1258 ---
+Type: Auto Insurance
+Description: Claim related to Bodily Injury Liability, amounting to 51937.66 USD.
+Amount: 51937.66
+Urgency: Yes
+Prior Claims: 3
+
+
+
+--- Claim ID: onrj2289 ---
+Type: Renters Insurance
+Description: Claim related to Temporary Housing, amounting to 13902.1 USD.
+Amount: 13902.1
+Urgency: Yes
+Prior Claims: 2
+
+
+
+--- Claim ID: sonv9708 ---
+Type: Renters Insurance
+Description: Claim related to Fire or Smoke Damage, amounting to 9914.7 USD.
+Amount: 9914.7
+Urgency: No
+Prior Claims: 5
+
+
+
+--- Claim ID: ntsj3803 ---
+Type: Burglary & Theft
+Description: Claim related to Small-scale theft, amounting to 1864.74 USD.
+Amount: 1864.74
+Urgency: Yes
+Prior Claims: 0
+
+
+
+

@@ -1,0 +1,800 @@
+Claim ID: lutw4250
+Summary:
+Burglary & Theft claim for large theft
+Amount: $10,827.15
+Urgency: No; Prior Claims: 2
+Risk Level: Medium
+Reason: Amount is within medium range ($10,000–$25,000) and there are 2 prior claims.
+
+Claim ID: ydvs5228
+Summary:
+Auto Insurance claim for bodily injury
+Amount: $87,224.78
+Urgency: Yes; Prior Claims: 5
+Risk Level: High
+Reason: Prior_claims ≥ 5 and amount > $75,000 — meets multiple high-risk rules.
+
+Claim ID: kosm1767
+Summary:
+Burglary & Theft claim for business theft
+Amount: $85,182.70
+Urgency: No; Prior Claims: 3
+Risk Level: High
+Reason: Amount exceeds $25,000, the high-risk threshold for Burglary & Theft.
+
+Claim ID: pckq0778
+Summary:
+Burglary & Theft claim for small-scale theft
+Amount: $612.58
+Urgency: Yes; Prior Claims: 2
+Risk Level: Medium
+Reason: 2 prior claims trigger medium-risk rule despite low amount.
+
+Claim ID: kedg6130
+Summary:
+Health Insurance claim for routine treatment
+Amount: $570.55
+Urgency: No; Prior Claims: 4
+Risk Level: Medium
+Reason: Matches medium-risk rule: urgency == No AND prior_claims ≥ 4.
+
+Claim ID: kxus6793
+Summary:
+Auto Insurance claim for vehicle replacement
+Amount: $16,878.73
+Urgency: No; Prior Claims: 5
+Risk Level: High
+Reason: Prior_claims ≥ 5 triggers high-risk rule regardless of amount.
+
+Claim ID: oddb6232
+Summary:
+Burglary & Theft claim for large theft
+Amount: $13,764.57
+Urgency: Yes; Prior Claims: 3
+Threshold: 25,000 → Upper third: > $20,000
+Risk Level: Medium
+Reason: Amount in medium range, urgency is Yes, prior_claims = 3, but amount is not in upper third → qualifies for medium risk.
+
+Claim ID: lpbs1056
+Summary:
+Renters Insurance claim for fire damage
+Amount: $10,423.67
+Urgency: No; Prior Claims: 4
+Risk Level: Medium
+Reason: Matches medium-risk rule: urgency == No AND prior_claims ≥ 4.
+
+Claim ID: bmcw3488
+Summary:
+Renters Insurance claim for temporary housing
+Amount: $5,257.36
+Urgency: No; Prior Claims: 5
+Risk Level: High
+Reason: Prior_claims ≥ 5 — qualifies for high risk.
+
+Claim ID: yltx9077
+Summary:
+Health Insurance claim for hospitalization
+Amount: $91,681.65
+Urgency: Yes; Prior Claims: 5
+Risk Level: High
+Reason: Meets multiple high-risk rules: prior_claims ≥ 5, urgency = Yes, and amount in medium range.
+
+Claim ID: shmg4467
+Summary:
+Auto Insurance claim for minor damage
+Amount: $1,845.50
+Urgency: No; Prior Claims: 5
+Risk Level: High
+Reason: Prior_claims ≥ 5 — qualifies for high risk.
+
+Claim ID: gank6704
+Summary:
+Property Damage claim for moderate damage
+Amount: $13,593.19
+Urgency: No; Prior Claims: 2
+Risk Level: Medium
+Reason: 2 prior claims satisfy medium-risk rule.
+
+Claim ID: vegp8645
+Summary:
+Property Damage claim for moderate damage
+Amount: $14,893.57
+Urgency: No; Prior Claims: 4
+Risk Level: Medium
+Reason: Matches medium-risk rule: urgency == No AND prior_claims ≥ 4.
+
+Claim ID: fmiq6046
+Summary:
+Health Insurance claim for ER visit
+Amount: $1,329.59
+Urgency: Yes; Prior Claims: 0
+Risk Level: Low
+Reason: Amount ≤ $50,000 and prior_claims ≤ 1 — qualifies as low risk.
+
+Claim ID: ggfv0975
+Summary:
+Health Insurance claim for long-term care
+Amount: $878,262.73
+Urgency: Yes; Prior Claims: 3
+Risk Level: High
+Reason: Amount > $250,000 — meets high-risk threshold.
+
+Claim ID: gdsq6572
+Summary:
+Burglary & Theft claim for large theft
+Amount: $9,277.87
+Urgency: No; Prior Claims: 0
+Risk Level: Low
+Reason: Amount ≤ $10,000 and prior_claims ≤ 1 — satisfies low-risk.
+
+Claim ID: tdtp7664
+Summary:
+Renters Insurance claim for fire damage
+Amount: $6,726.98
+Urgency: Yes; Prior Claims: 5
+Risk Level: High
+Reason: Prior_claims ≥ 5 — satisfies high-risk rule.
+
+Claim ID: jmnx4017
+Summary:
+Burglary & Theft claim for small-scale theft
+Amount: $894.74
+Urgency: No; Prior Claims: 3
+Risk Level: Medium
+Reason: 3 prior claims — meets medium-risk rule.
+
+Claim ID: zurx3979
+Summary:
+Auto Insurance claim for vehicle replacement
+Amount: $32,741.79
+Urgency: Yes; Prior Claims: 0
+Risk Level: Low
+Reason: Amount ≤ $35,000 and prior_claims ≤ 1 — meets low-risk rule.
+
+Claim ID: ucgn1014
+Summary:
+Property Damage claim for moderate damage
+Amount: $14,716.66
+Urgency: No; Prior Claims: 1
+Risk Level: Low
+Reason: Amount ≤ $75,000 and prior_claims ≤ 1 — qualifies for low risk.
+
+Claim ID: gafd8466
+Summary:
+Health Insurance for routine care
+Amount: $298.38
+Urgency: Yes; Prior Claims: 2
+Risk Level: Medium
+Reason: 2 prior claims → triggers medium risk, regardless of low amount.
+
+Claim ID: vpqb1939
+Summary:
+Auto Insurance for bodily injury
+Amount: $17,012.84
+Urgency: No; Prior Claims: 4
+Risk Level: Medium
+Reason: urgency = No and prior_claims = 4 — satisfies medium risk.
+
+Claim ID: smtr6269
+Summary:
+Property Damage for minor damage
+Amount: $2,343.20
+Urgency: No; Prior Claims: 3
+Risk Level: Medium
+Reason: 3 prior claims → satisfies medium risk.
+
+Claim ID: jiaw2010
+Summary:
+Health Insurance for minor treatment
+Amount: $142.19
+Urgency: Yes; Prior Claims: 4
+Risk Level: High
+Reason: Prior_claims ≥ 4 AND urgency = Yes → triggers high risk.
+
+Claim ID: rtup2069
+Summary:
+Health Insurance for long-term care
+Amount: $419,347.84
+Urgency: No; Prior Claims: 0
+Risk Level: High
+Reason: Amount > $250,000 → exceeds high-risk threshold for Health Insurance.
+
+Claim ID: axfc4764
+Summary:
+Health Insurance for routine care
+Amount: $479.48
+Urgency: Yes; Prior Claims: 0
+Risk Level: Low
+Reason: Amount ≤ $50,000 and prior_claims ≤ 1 — qualifies as low risk.
+
+Claim ID: cavz8927
+Summary:
+Renters Insurance for water damage
+Amount: $1,277.89
+Urgency: Yes; Prior Claims: 0
+Risk Level: Low
+Reason: Amount ≤ $10,000 and prior_claims ≤ 1 — satisfies low risk.
+
+Claim ID: gkmd8245
+Summary:
+Renters Insurance for fire/smoke damage
+Amount: $29,960.08
+Urgency: Yes; Prior Claims: 0
+Risk Level: High
+Reason: Amount > $25,000 → exceeds high-risk threshold for Renters Insurance.
+
+Claim ID: tzvv5180
+Summary:
+Burglary & Theft for large theft
+Amount: $15,938.77
+Urgency: Yes; Prior Claims: 0
+Risk Level: Medium
+Reason: Amount within $10,000–$25,000, urgency = Yes, and no other high-risk rule matched.
+
+Claim ID: rehm7899
+Summary:
+Burglary & Theft for business theft
+Amount: $97,974.11
+Urgency: Yes; Prior Claims: 2
+Risk Level: High
+Reason: Amount > $25,000 → exceeds high-risk threshold for Burglary & Theft.
+
+Claim ID: kktf0335
+Summary:
+Auto Insurance for moderate accident
+Amount: $8,903.98
+Urgency: No; Prior Claims: 0
+Risk Level: Low
+Reason: Amount ≤ $35,000 and prior_claims ≤ 1 → qualifies as low risk.
+
+Claim ID: jquj9050
+Summary:
+Burglary & Theft for small-scale theft
+Amount: $433.50
+Urgency: Yes; Prior Claims: 0
+Risk Level: Low
+Reason: Amount ≤ $10,000 and prior_claims ≤ 1 → low risk.
+
+Claim ID: rpfq9087
+Summary:
+Property Damage for minor damage
+Amount: $1,217.40
+Urgency: No; Prior Claims: 2
+Risk Level: Medium
+Reason: 2 prior claims → satisfies medium risk.
+
+Claim ID: dtso6762
+Summary:
+Auto Insurance for moderate accident
+Amount: $6,995.01
+Urgency: No; Prior Claims: 3
+Risk Level: Medium
+Reason: 3 prior claims → satisfies medium risk.
+
+Claim ID: ditk1477
+Summary:
+Property Damage from natural disaster
+Amount: $310,191.10
+Urgency: No; Prior Claims: 1
+Risk Level: High
+Reason: Amount > $250,000 → exceeds high-risk threshold.
+
+Claim ID: vtda1734
+Summary:
+Health Insurance for chronic illness
+Amount: $138,713.28
+Urgency: Yes; Prior Claims: 4
+Risk Level: High
+Reason: Prior_claims ≥ 4 AND urgency = Yes → triggers high risk.
+
+Claim ID: hbco1032
+Summary:
+Property Damage for major structural damage
+Amount: $131,989.06
+Urgency: No; Prior Claims: 1
+Risk Level: Medium
+Reason: Amount within $75,000–$250,000 range → qualifies for medium risk.
+
+Claim ID: mrwh8826
+Summary:
+Health Insurance for long-term care
+Amount: $832,016.22
+Urgency: Yes; Prior Claims: 4
+Risk Level: High
+Reason: Amount > $250,000 and prior_claims ≥ 4 AND urgency = Yes — satisfies multiple high-risk rules.
+
+Claim ID: fbbh3459
+Summary:
+Health Insurance for ER visit
+Amount: $4,396.67
+Urgency: No; Prior Claims: 2
+Risk Level: Medium
+Reason: 2 prior claims → triggers medium risk.
+
+Claim ID: egjs7074
+Summary:
+Property Damage for structural damage
+Amount: $69,722.67
+Urgency: Yes; Prior Claims: 3
+Risk Level: Medium
+Reason: Amount ≤ $75,000 and 3 prior claims — qualifies as medium risk.
+
+Claim ID: ocgf5247
+Summary:
+Health Insurance for chronic illness
+Amount: $89,472.51
+Urgency: No; Prior Claims: 3
+Risk Level: Medium
+Reason: 3 prior claims and amount is between $50,000–$250,000 → satisfies medium risk.
+
+Claim ID: onlk2528
+Summary:
+Auto Insurance for moderate accident
+Amount: $10,468.31
+Urgency: Yes; Prior Claims: 4
+Risk Level: High
+Reason: Prior_claims ≥ 4 and urgency = Yes → high risk.
+
+Claim ID: vhiu1585
+Summary:
+Property Damage for minor damage
+Amount: $2,022.78
+Urgency: Yes; Prior Claims: 1
+Risk Level: Low
+Reason: Prior_claims ≤ 1 and amount ≤ $75,000 → low risk.
+
+Claim ID: wpuk6283
+Summary:
+Health Insurance for emergency room visit
+Amount: $3,992.26
+Urgency: No; Prior Claims: 1
+Risk Level: Low
+Reason: Prior_claims ≤ 1 and amount ≤ $50,000 → low risk.
+
+Claim ID: sbuk4784
+Summary:
+Property Damage for minor damage
+Amount: $867.97
+Urgency: Yes; Prior Claims: 3
+Risk Level: Medium
+Reason: 3 prior claims → qualifies for medium risk.
+
+Claim ID: gmiu6778
+Summary:
+Health Insurance for minor treatment
+Amount: $735.60
+Urgency: No; Prior Claims: 5
+Risk Level: High
+Reason: Prior_claims ≥ 5 → high risk.
+
+Claim ID: fyzn9461
+Summary:
+Health Insurance for long-term care
+Amount: $891,606.34
+Urgency: Yes; Prior Claims: 0
+Risk Level: High
+Reason: Amount > $250,000 → exceeds high-risk threshold.
+
+Claim ID: sbaa7950
+Summary:
+Property Damage for moderate damage
+Amount: $14,263.96
+Urgency: No; Prior Claims: 0
+Risk Level: Low
+Reason: Prior_claims ≤ 1 and amount ≤ $75,000 → low risk.
+
+Claim ID: dmsq8690
+Summary:
+Auto Insurance for bodily injury
+Amount: $44,191.28
+Urgency: Yes; Prior Claims: 3
+Risk Level: Medium
+Reason: 3 prior claims and amount within $35,000–$75,000 → medium risk.
+
+Claim ID: hzsv1095
+Summary:
+Health Insurance for chronic illness
+Amount: $163,197.10
+Urgency: Yes; Prior Claims: 1
+Risk Level: Medium
+Reason: Amount within $50,000–$250,000 and prior_claims = 1 → medium risk.
+
+Claim ID: pmxq3208
+Summary:
+Auto Insurance for minor damage
+Amount: $1,104.13
+Urgency: No; Prior Claims: 2
+Risk Level: Medium
+Reason: 2 prior claims → medium risk.
+
+Claim ID: zcjw0498
+Summary:
+Health Insurance for chronic illness
+Amount: $86,898.40
+Urgency: Yes; Prior Claims: 1
+Risk Level: Medium
+Reason: Amount in $50,000–$250,000 and urgency = Yes → medium risk.
+
+Claim ID: qqyf8819
+Summary:
+Auto Insurance for bodily injury
+Amount: $57,219.86
+Urgency: No; Prior Claims: 3
+Risk Level: Medium
+Reason: 3 prior claims and amount within $35,000–$75,000 → medium risk.
+
+Claim ID: fkzk2913
+Summary:
+Burglary & Theft for large theft
+Amount: $11,348.34
+Urgency: No; Prior Claims: 4
+Risk Level: Medium
+Reason: urgency = No and prior_claims = 4 → qualifies for medium risk.
+
+Claim ID: xghj4462
+Summary:
+Renters Insurance for temporary housing
+Amount: $5,849.07
+Urgency: Yes; Prior Claims: 4
+Risk Level: High
+Reason: Prior_claims ≥ 4 and urgency = Yes → high risk.
+
+Claim ID: ootd1446
+Summary:
+Burglary & Theft for small-scale theft
+Amount: $2,190.65
+Urgency: No; Prior Claims: 4
+Risk Level: Medium
+Reason: urgency = No and prior_claims = 4 → medium risk.
+
+Claim ID: brcz9025
+Summary:
+Renters Insurance for fire/smoke damage
+Amount: $36,949.38
+Urgency: Yes; Prior Claims: 3
+Risk Level: High
+Reason: Amount > $25,000 → exceeds high-risk threshold for Renters Insurance.
+
+Claim ID: mtjt1363
+Summary:
+Renters Insurance for temporary housing
+Amount: $7,193.16
+Urgency: Yes; Prior Claims: 4
+Risk Level: High
+Reason: Prior_claims ≥ 4 and urgency = Yes → high risk.
+
+Claim ID: trvw4740
+Summary:
+Renters Insurance for water damage
+Amount: $2,065.08
+Urgency: Yes; Prior Claims: 2
+Risk Level: Medium
+Reason: 2 prior claims → medium risk.
+
+Claim ID: xfuc4220
+Summary:
+Renters Insurance for theft
+Amount: $4,634.37
+Urgency: Yes; Prior Claims: 4
+Risk Level: High
+Reason: Prior_claims ≥ 4 and urgency = Yes → high risk.
+
+Claim ID: ubea2084
+Summary:
+Auto Insurance for major collision
+Amount: $56,612.09
+Urgency: Yes; Prior Claims: 0
+Risk Level: Medium
+Reason: Amount in mid-range ($35,000–$75,000) and urgency is Yes → medium risk.
+
+Claim ID: azyv3464
+Summary:
+Renters Insurance for temporary housing
+Amount: $9,715.24
+Urgency: Yes; Prior Claims: 2
+Risk Level: Medium
+Reason: Prior_claims = 2 → medium risk.
+
+Claim ID: tcpn2067
+Summary:
+Renters Insurance for theft
+Amount: $1,504.77
+Urgency: Yes; Prior Claims: 4
+Risk Level: High
+Reason: Prior_claims ≥ 4 and urgency = Yes → high risk.
+
+Claim ID: whro0080
+Summary:
+Burglary & Theft for small-scale theft
+Amount: $362.72
+Urgency: No; Prior Claims: 2
+Risk Level: Medium
+Reason: Prior_claims = 2 → medium risk.
+
+Claim ID: rscb1869
+Summary:
+Health Insurance for high-risk long-term care
+Amount: $500,722.54
+Urgency: Yes; Prior Claims: 1
+Risk Level: High
+Reason: Amount > $250,000 → high risk.
+
+Claim ID: uawz2254
+Summary:
+Health Insurance for chronic illness
+Amount: $25,063.13
+Urgency: No; Prior Claims: 5
+Risk Level: High
+Reason: Prior_claims ≥ 5 → high risk.
+
+Claim ID: tmwg1078
+Summary:
+Burglary & Theft for small-scale theft
+Amount: $1,929.09
+Urgency: No; Prior Claims: 2
+Risk Level: Medium
+Reason: Prior_claims = 2 → medium risk.
+
+Claim ID: nmvr8377
+Summary:
+Renters Insurance for temporary housing
+Amount: $10,868.35
+Urgency: No; Prior Claims: 5
+Risk Level: High
+Reason: Prior_claims ≥ 5 → high risk.
+
+Claim ID: ptrm4680
+Summary:
+Property Damage for minor damage
+Amount: $1,471.50
+Urgency: No; Prior Claims: 4
+Risk Level: Medium
+Reason: urgency = No and prior_claims ≥ 4 → medium risk.
+
+Claim ID: vicx9489
+Summary:
+Health Insurance for emergency visit
+Amount: $3,132.63
+Urgency: No; Prior Claims: 5
+Risk Level: High
+Reason: Prior_claims ≥ 5 → high risk.
+
+Claim ID: tido4683
+Summary:
+Burglary & Theft for small-scale theft
+Amount: $1,619.79
+Urgency: Yes; Prior Claims: 5
+Risk Level: High
+Reason: Prior_claims ≥ 5 → high risk.
+
+Claim ID: bcau1919
+Summary:
+Burglary & Theft for large theft
+Amount: $15,858.23
+Urgency: Yes; Prior Claims: 2
+Risk Level: Medium
+Reason: Prior_claims = 2 and amount in medium range → medium risk.
+
+Claim ID: xavk9059
+Summary:
+Auto Insurance for major collision
+Amount: $67,891.21
+Urgency: Yes; Prior Claims: 3
+Risk Level: Medium
+Reason: Prior_claims = 3 and amount in $35,000–$75,000 → medium risk.
+
+Claim ID: ifxk1842
+Summary:
+Renters Insurance for temporary housing
+Amount: $13,331.61
+Urgency: No; Prior Claims: 2
+Risk Level: Medium
+Reason: Prior_claims = 2 → medium risk.
+
+Claim ID: hyll2956
+Summary:
+Health Insurance for minor treatments
+Amount: $744.23
+Urgency: Yes; Prior Claims: 4
+Risk Level: High
+Reason: Prior_claims ≥ 4 and urgency = Yes → high risk.
+
+Claim ID: oywq8841
+Summary:
+Health Insurance for minor treatments
+Amount: $122.60
+Urgency: No; Prior Claims: 1
+Risk Level: Low
+Reason: Prior_claims ≤ 1 and amount ≤ $50,000 → low risk.
+
+Claim ID: xlms8671
+Summary:
+Health Insurance for long-term claim
+Amount: $325,501.51
+Urgency: No; Prior Claims: 4
+Risk Level: High
+Reason: Amount > $250,000 → high risk.
+
+Claim ID: wqdj4209
+Summary:
+Renters Insurance for temporary housing
+Amount: $6,929.91
+Urgency: Yes; Prior Claims: 4
+Risk Level: High
+Reason: Prior_claims ≥ 4 and urgency = Yes → high risk.
+
+Claim ID: irha9489
+Summary:
+Health Insurance for long-term claim
+Amount: $708,104.18
+Urgency: No; Prior Claims: 2
+Risk Level: High
+Reason: Amount > $250,000 → high risk.
+
+Claim ID: pfcv7161
+Summary:
+Property Damage for moderate damage
+Amount: $11,102.94
+Urgency: Yes; Prior Claims: 5
+Risk Level: High
+Reason: Prior_claims ≥ 5 → high risk.
+
+Claim ID: ehkz2856
+Summary:
+Health Insurance for surgery/hospitalization
+Amount: $80,197.81
+Urgency: Yes; Prior Claims: 0
+Risk Level: Medium
+Reason: Amount in $50,000–$250,000 range and urgency = Yes → medium risk.
+
+Claim ID: avak0627
+Summary:
+Property Damage for minor damage
+Amount: $2,474.94
+Urgency: Yes; Prior Claims: 5
+Risk Level: High
+Reason: Prior_claims ≥ 5 → high risk.
+
+Claim ID: wbif5347
+Summary:
+Auto Insurance for bodily injury
+Amount: $87,576.41
+Urgency: Yes; Prior Claims: 2
+Risk Level: High
+Reason: Amount > $75,000 for Auto Insurance → high risk.
+
+Claim ID: yyfk0445
+Summary:
+Auto Insurance for totaled vehicle replacement
+Amount: $12,975.13
+Urgency: No; Prior Claims: 4
+Risk Level: Medium
+Reason: Urgency = No and prior_claims ≥ 4 → medium risk.
+
+Claim ID: adei0493
+Summary:
+Property Damage due to natural disaster
+Amount: $355,431.73
+Urgency: Yes; Prior Claims: 0
+Risk Level: High
+Reason: Amount > $250,000 for Property Damage → high risk.
+
+Claim ID: jaqk6836
+Summary:
+Burglary & Theft for business theft
+Amount: $30,989.41
+Urgency: Yes; Prior Claims: 4
+Risk Level: High
+Reason: Prior_claims ≥ 4 and urgency = Yes → high risk.
+
+Claim ID: btdo5587
+Summary:
+Property Damage for moderate damage
+Amount: $8,050.79
+Urgency: No; Prior Claims: 4
+Risk Level: Medium
+Reason: Urgency = No and prior_claims ≥ 4 → medium risk.
+
+Claim ID: ksus3252
+Summary:
+Property Damage for moderate damage
+Amount: $8,026.67
+Urgency: Yes; Prior Claims: 0
+Risk Level: Low
+Reason: Prior_claims ≤ 1 and amount ≤ $75,000 → low risk.
+
+Claim ID: jpws4755
+Summary:
+Property Damage for minor damage
+Amount: $1,470.84
+Urgency: Yes; Prior Claims: 1
+Risk Level: Low
+Reason: Prior_claims ≤ 1 and amount ≤ $75,000 → low risk.
+
+Claim ID: ykbf0239
+Summary:
+Health Insurance for surgery/hospitalization
+Amount: $27,259.59
+Urgency: Yes; Prior Claims: 1
+Risk Level: Low
+Reason: Prior_claims ≤ 1 and amount ≤ $50,000 → low risk.
+
+Claim ID: jiqs6564
+Summary:
+Health Insurance for surgery/hospitalization
+Amount: $43,317.96
+Urgency: No; Prior Claims: 4
+Risk Level: Medium
+Reason: Urgency = No and prior_claims ≥ 4 → medium risk.
+
+Claim ID: slbt7247
+Summary:
+Burglary & Theft for small-scale theft
+Amount: $2,384.92
+Urgency: No; Prior Claims: 2
+Risk Level: Medium
+Reason: Prior_claims = 2 → medium risk.
+
+Claim ID: wecw9484
+Summary:
+Auto Insurance for major collision
+Amount: $36,593.46
+Urgency: No; Prior Claims: 3
+Risk Level: Medium
+Reason: Amount in $35,000–$75,000 range → medium risk.
+
+Claim ID: offs5075
+Summary:
+Renters Insurance for water damage
+Amount: $1,272.50
+Urgency: Yes; Prior Claims: 2
+Risk Level: Medium
+Reason: Prior_claims = 2 → medium risk.
+
+Claim ID: abpe6154
+Summary:
+Burglary & Theft for large theft
+Amount: $7,621.60
+Urgency: Yes; Prior Claims: 1
+Risk Level: Low
+Reason: Prior_claims ≤ 1 and amount ≤ $10,000 → low risk.
+
+Claim ID: ybmv0973
+Summary:
+Property Damage for structural damage
+Amount: $210,916.63
+Urgency: Yes; Prior Claims: 0
+Risk Level: Medium
+Reason: Amount in $75,000–$250,000 range and urgency = Yes → medium risk.
+
+Claim ID: mooo1258
+Summary:
+Auto Insurance for bodily injury
+Amount: $51,937.66
+Urgency: Yes; Prior Claims: 3
+Risk Level: Medium
+Reason: Amount in $35,000–$75,000 and urgency = Yes → medium risk.
+
+Claim ID: onrj2289
+Summary:
+Renters Insurance for temporary housing
+Amount: $13,902.10
+Urgency: Yes; Prior Claims: 2
+Risk Level: Medium
+Reason: Prior_claims = 2 → medium risk.
+
+Claim ID: sonv9708
+Summary:
+Renters Insurance for fire/smoke damage
+Amount: $9,914.70
+Urgency: No; Prior Claims: 5
+Risk Level: High
+Reason: Prior_claims ≥ 5 → high risk.
+
+Claim ID: ntsj3803
+Summary:
+Burglary & Theft for small-scale theft
+Amount: $1,864.74
+Urgency: Yes; Prior Claims: 0
+Risk Level: Low
+Reason: Prior_claims ≤ 1 and amount ≤ $10,000 → low risk.

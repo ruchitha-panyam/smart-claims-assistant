@@ -1,0 +1,1002 @@
+[
+  {
+    "claim_id": "lutw4250",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Large theft, amounting to 10827.15 USD.",
+    "amount": 10827.15,
+    "urgency": "No",
+    "prior_claims": 2,
+    "customer_id": "CUST7426",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "ydvs5228",
+    "type": "Auto Insurance",
+    "description": "Claim related to Bodily Injury Liability, amounting to 87224.78 USD.",
+    "amount": 87224.78,
+    "urgency": "Yes",
+    "prior_claims": 5,
+    "customer_id": "CUST4517",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "kosm1767",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Business Theft, amounting to 85182.7 USD.",
+    "amount": 85182.7,
+    "urgency": "No",
+    "prior_claims": 3,
+    "customer_id": "CUST9695",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "pckq0778",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Small-scale theft, amounting to 612.58 USD.",
+    "amount": 612.58,
+    "urgency": "Yes",
+    "prior_claims": 2,
+    "customer_id": "CUST2162",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "kedg6130",
+    "type": "Health Insurance",
+    "description": "Claim related to Routine Care/Minor Treatments, amounting to 570.55 USD.",
+    "amount": 570.55,
+    "urgency": "No",
+    "prior_claims": 4,
+    "customer_id": "CUST8181",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "kxus6793",
+    "type": "Auto Insurance",
+    "description": "Claim related to Totaled Vehicle Replacement, amounting to 16878.73 USD.",
+    "amount": 16878.73,
+    "urgency": "No",
+    "prior_claims": 5,
+    "customer_id": "CUST3098",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "oddb6232",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Large theft, amounting to 13764.57 USD.",
+    "amount": 13764.57,
+    "urgency": "Yes",
+    "prior_claims": 3,
+    "customer_id": "CUST1069",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "lpbs1056",
+    "type": "Renters Insurance",
+    "description": "Claim related to Fire or Smoke Damage, amounting to 10423.67 USD.",
+    "amount": 10423.67,
+    "urgency": "No",
+    "prior_claims": 4,
+    "customer_id": "CUST9911",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "bmcw3488",
+    "type": "Renters Insurance",
+    "description": "Claim related to Temporary Housing, amounting to 5257.36 USD.",
+    "amount": 5257.36,
+    "urgency": "No",
+    "prior_claims": 5,
+    "customer_id": "CUST3633",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "yltx9077",
+    "type": "Health Insurance",
+    "description": "Claim related to Surgery/Hospitalization, amounting to 91681.65 USD.",
+    "amount": 91681.65,
+    "urgency": "Yes",
+    "prior_claims": 5,
+    "customer_id": "CUST8799",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "shmg4467",
+    "type": "Auto Insurance",
+    "description": "Claim related to Minor Damage, amounting to 1845.5 USD.",
+    "amount": 1845.5,
+    "urgency": "No",
+    "prior_claims": 5,
+    "customer_id": "CUST2461",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "gank6704",
+    "type": "Property Damage",
+    "description": "Claim related to Moderate Damage, amounting to 13593.19 USD.",
+    "amount": 13593.19,
+    "urgency": "No",
+    "prior_claims": 2,
+    "customer_id": "CUST7741",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "vegp8645",
+    "type": "Property Damage",
+    "description": "Claim related to Moderate Damage, amounting to 14893.57 USD.",
+    "amount": 14893.57,
+    "urgency": "No",
+    "prior_claims": 4,
+    "customer_id": "CUST2535",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "fmiq6046",
+    "type": "Health Insurance",
+    "description": "Claim related to Emergency Room Visit, amounting to 1329.59 USD.",
+    "amount": 1329.59,
+    "urgency": "Yes",
+    "prior_claims": 0,
+    "customer_id": "CUST4540",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "ggfv0975",
+    "type": "Health Insurance",
+    "description": "Claim related to High-Risk/Long-Term Claims, amounting to 878262.73 USD.",
+    "amount": 878262.73,
+    "urgency": "Yes",
+    "prior_claims": 3,
+    "customer_id": "CUST5021",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "gdsq6572",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Large theft, amounting to 9277.87 USD.",
+    "amount": 9277.87,
+    "urgency": "No",
+    "prior_claims": 0,
+    "customer_id": "CUST1775",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "tdtp7664",
+    "type": "Renters Insurance",
+    "description": "Claim related to Fire or Smoke Damage, amounting to 6726.98 USD.",
+    "amount": 6726.98,
+    "urgency": "Yes",
+    "prior_claims": 5,
+    "customer_id": "CUST1590",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "jmnx4017",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Small-scale theft, amounting to 894.74 USD.",
+    "amount": 894.74,
+    "urgency": "No",
+    "prior_claims": 3,
+    "customer_id": "CUST7018",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "zurx3979",
+    "type": "Auto Insurance",
+    "description": "Claim related to Totaled Vehicle Replacement, amounting to 32741.79 USD.",
+    "amount": 32741.79,
+    "urgency": "Yes",
+    "prior_claims": 0,
+    "customer_id": "CUST9301",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "ucgn1014",
+    "type": "Property Damage",
+    "description": "Claim related to Moderate Damage, amounting to 14716.66 USD.",
+    "amount": 14716.66,
+    "urgency": "No",
+    "prior_claims": 1,
+    "customer_id": "CUST5307",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "gafd8466",
+    "type": "Health Insurance",
+    "description": "Claim related to Routine Care/Minor Treatments, amounting to 298.38 USD.",
+    "amount": 298.38,
+    "urgency": "Yes",
+    "prior_claims": 2,
+    "customer_id": "CUST2196",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "vpqb1939",
+    "type": "Auto Insurance",
+    "description": "Claim related to Bodily Injury Liability, amounting to 17012.84 USD.",
+    "amount": 17012.84,
+    "urgency": "No",
+    "prior_claims": 4,
+    "customer_id": "CUST7861",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "smtr6269",
+    "type": "Property Damage",
+    "description": "Claim related to Minor Damage, amounting to 2343.2 USD.",
+    "amount": 2343.2,
+    "urgency": "No",
+    "prior_claims": 3,
+    "customer_id": "CUST1047",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "jiaw2010",
+    "type": "Health Insurance",
+    "description": "Claim related to Routine Care/Minor Treatments, amounting to 142.19 USD.",
+    "amount": 142.19,
+    "urgency": "Yes",
+    "prior_claims": 4,
+    "customer_id": "CUST4537",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "rtup2069",
+    "type": "Health Insurance",
+    "description": "Claim related to High-Risk/Long-Term Claims, amounting to 419347.84 USD.",
+    "amount": 419347.84,
+    "urgency": "No",
+    "prior_claims": 0,
+    "customer_id": "CUST4014",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "axfc4764",
+    "type": "Health Insurance",
+    "description": "Claim related to Routine Care/Minor Treatments, amounting to 479.48 USD.",
+    "amount": 479.48,
+    "urgency": "Yes",
+    "prior_claims": 0,
+    "customer_id": "CUST7251",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "cavz8927",
+    "type": "Renters Insurance",
+    "description": "Claim related to Water Damage, amounting to 1277.89 USD.",
+    "amount": 1277.89,
+    "urgency": "Yes",
+    "prior_claims": 0,
+    "customer_id": "CUST4326",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "gkmd8245",
+    "type": "Renters Insurance",
+    "description": "Claim related to Fire or Smoke Damage, amounting to 29960.08 USD.",
+    "amount": 29960.08,
+    "urgency": "Yes",
+    "prior_claims": 0,
+    "customer_id": "CUST3724",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "tzvv5180",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Large theft, amounting to 15938.77 USD.",
+    "amount": 15938.77,
+    "urgency": "Yes",
+    "prior_claims": 0,
+    "customer_id": "CUST3432",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "rehm7899",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Business Theft, amounting to 97974.11 USD.",
+    "amount": 97974.11,
+    "urgency": "Yes",
+    "prior_claims": 2,
+    "customer_id": "CUST2258",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "kktf0335",
+    "type": "Auto Insurance",
+    "description": "Claim related to Moderate Accidents, amounting to 8903.98 USD.",
+    "amount": 8903.98,
+    "urgency": "No",
+    "prior_claims": 0,
+    "customer_id": "CUST6305",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "jquj9050",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Small-scale theft, amounting to 433.5 USD.",
+    "amount": 433.5,
+    "urgency": "Yes",
+    "prior_claims": 0,
+    "customer_id": "CUST8659",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "rpfq9087",
+    "type": "Property Damage",
+    "description": "Claim related to Minor Damage, amounting to 1217.4 USD.",
+    "amount": 1217.4,
+    "urgency": "No",
+    "prior_claims": 2,
+    "customer_id": "CUST5885",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "dtso6762",
+    "type": "Auto Insurance",
+    "description": "Claim related to Moderate Accidents, amounting to 6995.01 USD.",
+    "amount": 6995.01,
+    "urgency": "No",
+    "prior_claims": 3,
+    "customer_id": "CUST6174",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "ditk1477",
+    "type": "Property Damage",
+    "description": "Claim related to Natural Disasters, amounting to 310191.1 USD.",
+    "amount": 310191.1,
+    "urgency": "No",
+    "prior_claims": 1,
+    "customer_id": "CUST2488",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "vtda1734",
+    "type": "Health Insurance",
+    "description": "Claim related to Chronic Illness Treatments, amounting to 138713.28 USD.",
+    "amount": 138713.28,
+    "urgency": "Yes",
+    "prior_claims": 4,
+    "customer_id": "CUST4538",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "hbco1032",
+    "type": "Property Damage",
+    "description": "Claim related to Major Structural Damage, amounting to 131989.06 USD.",
+    "amount": 131989.06,
+    "urgency": "No",
+    "prior_claims": 1,
+    "customer_id": "CUST1909",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "mrwh8826",
+    "type": "Health Insurance",
+    "description": "Claim related to High-Risk/Long-Term Claims, amounting to 832016.22 USD.",
+    "amount": 832016.22,
+    "urgency": "Yes",
+    "prior_claims": 4,
+    "customer_id": "CUST8799",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "fbbh3459",
+    "type": "Health Insurance",
+    "description": "Claim related to Emergency Room Visit, amounting to 4396.67 USD.",
+    "amount": 4396.67,
+    "urgency": "No",
+    "prior_claims": 2,
+    "customer_id": "CUST9383",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "egjs7074",
+    "type": "Property Damage",
+    "description": "Claim related to Major Structural Damage, amounting to 69722.67 USD.",
+    "amount": 69722.67,
+    "urgency": "Yes",
+    "prior_claims": 3,
+    "customer_id": "CUST2376",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "ocgf5247",
+    "type": "Health Insurance",
+    "description": "Claim related to Chronic Illness Treatments, amounting to 89472.51 USD.",
+    "amount": 89472.51,
+    "urgency": "No",
+    "prior_claims": 3,
+    "customer_id": "CUST1353",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "onlk2528",
+    "type": "Auto Insurance",
+    "description": "Claim related to Moderate Accidents, amounting to 10468.31 USD.",
+    "amount": 10468.31,
+    "urgency": "Yes",
+    "prior_claims": 4,
+    "customer_id": "CUST1912",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "vhiu1585",
+    "type": "Property Damage",
+    "description": "Claim related to Minor Damage, amounting to 2022.78 USD.",
+    "amount": 2022.78,
+    "urgency": "Yes",
+    "prior_claims": 1,
+    "customer_id": "CUST1412",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "wpuk6283",
+    "type": "Health Insurance",
+    "description": "Claim related to Emergency Room Visit, amounting to 3992.26 USD.",
+    "amount": 3992.26,
+    "urgency": "No",
+    "prior_claims": 1,
+    "customer_id": "CUST8857",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "sbuk4784",
+    "type": "Property Damage",
+    "description": "Claim related to Minor Damage, amounting to 867.97 USD.",
+    "amount": 867.97,
+    "urgency": "Yes",
+    "prior_claims": 3,
+    "customer_id": "CUST9460",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "gmiu6778",
+    "type": "Health Insurance",
+    "description": "Claim related to Routine Care/Minor Treatments, amounting to 735.6 USD.",
+    "amount": 735.6,
+    "urgency": "No",
+    "prior_claims": 5,
+    "customer_id": "CUST9300",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "fyzn9461",
+    "type": "Health Insurance",
+    "description": "Claim related to High-Risk/Long-Term Claims, amounting to 891606.34 USD.",
+    "amount": 891606.34,
+    "urgency": "Yes",
+    "prior_claims": 0,
+    "customer_id": "CUST5317",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "sbaa7950",
+    "type": "Property Damage",
+    "description": "Claim related to Moderate Damage, amounting to 14263.96 USD.",
+    "amount": 14263.96,
+    "urgency": "No",
+    "prior_claims": 0,
+    "customer_id": "CUST2344",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "dmsq8690",
+    "type": "Auto Insurance",
+    "description": "Claim related to Bodily Injury Liability, amounting to 44191.28 USD.",
+    "amount": 44191.28,
+    "urgency": "Yes",
+    "prior_claims": 3,
+    "customer_id": "CUST1049",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "hzsv1095",
+    "type": "Health Insurance",
+    "description": "Claim related to Chronic Illness Treatments, amounting to 163197.1 USD.",
+    "amount": 163197.1,
+    "urgency": "Yes",
+    "prior_claims": 1,
+    "customer_id": "CUST7709",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "pmxq3208",
+    "type": "Auto Insurance",
+    "description": "Claim related to Minor Damage, amounting to 1104.13 USD.",
+    "amount": 1104.13,
+    "urgency": "No",
+    "prior_claims": 2,
+    "customer_id": "CUST3422",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "zcjw0498",
+    "type": "Health Insurance",
+    "description": "Claim related to Chronic Illness Treatments, amounting to 86898.4 USD.",
+    "amount": 86898.4,
+    "urgency": "Yes",
+    "prior_claims": 1,
+    "customer_id": "CUST1368",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "qqyf8819",
+    "type": "Auto Insurance",
+    "description": "Claim related to Bodily Injury Liability, amounting to 57219.86 USD.",
+    "amount": 57219.86,
+    "urgency": "No",
+    "prior_claims": 3,
+    "customer_id": "CUST6224",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "fkzk2913",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Large theft, amounting to 11348.34 USD.",
+    "amount": 11348.34,
+    "urgency": "No",
+    "prior_claims": 4,
+    "customer_id": "CUST1499",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "xghj4462",
+    "type": "Renters Insurance",
+    "description": "Claim related to Temporary Housing, amounting to 5849.07 USD.",
+    "amount": 5849.07,
+    "urgency": "Yes",
+    "prior_claims": 4,
+    "customer_id": "CUST9351",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "ootd1446",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Small-scale theft, amounting to 2190.65 USD.",
+    "amount": 2190.65,
+    "urgency": "No",
+    "prior_claims": 4,
+    "customer_id": "CUST8052",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "brcz9025",
+    "type": "Renters Insurance",
+    "description": "Claim related to Fire or Smoke Damage, amounting to 36949.38 USD.",
+    "amount": 36949.38,
+    "urgency": "Yes",
+    "prior_claims": 3,
+    "customer_id": "CUST1927",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "mtjt1363",
+    "type": "Renters Insurance",
+    "description": "Claim related to Temporary Housing, amounting to 7193.16 USD.",
+    "amount": 7193.16,
+    "urgency": "Yes",
+    "prior_claims": 4,
+    "customer_id": "CUST1023",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "trvw4740",
+    "type": "Renters Insurance",
+    "description": "Claim related to Water Damage, amounting to 2065.08 USD.",
+    "amount": 2065.08,
+    "urgency": "Yes",
+    "prior_claims": 2,
+    "customer_id": "CUST7921",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "xfuc4220",
+    "type": "Renters Insurance",
+    "description": "Claim related to Theft of Electronics/Personal Belongings, amounting to 4634.37 USD.",
+    "amount": 4634.37,
+    "urgency": "Yes",
+    "prior_claims": 4,
+    "customer_id": "CUST1216",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "ubea2084",
+    "type": "Auto Insurance",
+    "description": "Claim related to Major Collisions, amounting to 56612.09 USD.",
+    "amount": 56612.09,
+    "urgency": "Yes",
+    "prior_claims": 0,
+    "customer_id": "CUST7181",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "azyv3464",
+    "type": "Renters Insurance",
+    "description": "Claim related to Temporary Housing, amounting to 9715.24 USD.",
+    "amount": 9715.24,
+    "urgency": "Yes",
+    "prior_claims": 2,
+    "customer_id": "CUST3147",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "tcpn2067",
+    "type": "Renters Insurance",
+    "description": "Claim related to Theft of Electronics/Personal Belongings, amounting to 1504.77 USD.",
+    "amount": 1504.77,
+    "urgency": "Yes",
+    "prior_claims": 4,
+    "customer_id": "CUST8785",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "whro0080",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Small-scale theft, amounting to 362.72 USD.",
+    "amount": 362.72,
+    "urgency": "No",
+    "prior_claims": 2,
+    "customer_id": "CUST2954",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "rscb1869",
+    "type": "Health Insurance",
+    "description": "Claim related to High-Risk/Long-Term Claims, amounting to 500722.54 USD.",
+    "amount": 500722.54,
+    "urgency": "Yes",
+    "prior_claims": 1,
+    "customer_id": "CUST9293",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "uawz2254",
+    "type": "Health Insurance",
+    "description": "Claim related to Chronic Illness Treatments, amounting to 25063.13 USD.",
+    "amount": 25063.13,
+    "urgency": "No",
+    "prior_claims": 5,
+    "customer_id": "CUST4566",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "tmwg1078",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Small-scale theft, amounting to 1929.09 USD.",
+    "amount": 1929.09,
+    "urgency": "No",
+    "prior_claims": 2,
+    "customer_id": "CUST4661",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "nmvr8377",
+    "type": "Renters Insurance",
+    "description": "Claim related to Temporary Housing, amounting to 10868.35 USD.",
+    "amount": 10868.35,
+    "urgency": "No",
+    "prior_claims": 5,
+    "customer_id": "CUST1598",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "ptrm4680",
+    "type": "Property Damage",
+    "description": "Claim related to Minor Damage, amounting to 1471.5 USD.",
+    "amount": 1471.5,
+    "urgency": "No",
+    "prior_claims": 4,
+    "customer_id": "CUST2930",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "vicx9489",
+    "type": "Health Insurance",
+    "description": "Claim related to Emergency Room Visit, amounting to 3132.63 USD.",
+    "amount": 3132.63,
+    "urgency": "No",
+    "prior_claims": 5,
+    "customer_id": "CUST7292",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "tido4683",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Small-scale theft, amounting to 1619.79 USD.",
+    "amount": 1619.79,
+    "urgency": "Yes",
+    "prior_claims": 5,
+    "customer_id": "CUST7405",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "bcau1919",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Large theft, amounting to 15858.23 USD.",
+    "amount": 15858.23,
+    "urgency": "Yes",
+    "prior_claims": 2,
+    "customer_id": "CUST9473",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "xavk9059",
+    "type": "Auto Insurance",
+    "description": "Claim related to Major Collisions, amounting to 67891.21 USD.",
+    "amount": 67891.21,
+    "urgency": "Yes",
+    "prior_claims": 3,
+    "customer_id": "CUST3296",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "ifxk1842",
+    "type": "Renters Insurance",
+    "description": "Claim related to Temporary Housing, amounting to 13331.61 USD.",
+    "amount": 13331.61,
+    "urgency": "No",
+    "prior_claims": 2,
+    "customer_id": "CUST3026",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "hyll2956",
+    "type": "Health Insurance",
+    "description": "Claim related to Routine Care/Minor Treatments, amounting to 744.23 USD.",
+    "amount": 744.23,
+    "urgency": "Yes",
+    "prior_claims": 4,
+    "customer_id": "CUST5257",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "oywq8841",
+    "type": "Health Insurance",
+    "description": "Claim related to Routine Care/Minor Treatments, amounting to 122.6 USD.",
+    "amount": 122.6,
+    "urgency": "No",
+    "prior_claims": 1,
+    "customer_id": "CUST4425",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "xlms8671",
+    "type": "Health Insurance",
+    "description": "Claim related to High-Risk/Long-Term Claims, amounting to 325501.51 USD.",
+    "amount": 325501.51,
+    "urgency": "No",
+    "prior_claims": 4,
+    "customer_id": "CUST3156",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "wqdj4209",
+    "type": "Renters Insurance",
+    "description": "Claim related to Temporary Housing, amounting to 6929.91 USD.",
+    "amount": 6929.91,
+    "urgency": "Yes",
+    "prior_claims": 4,
+    "customer_id": "CUST9671",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "irha9489",
+    "type": "Health Insurance",
+    "description": "Claim related to High-Risk/Long-Term Claims, amounting to 708104.18 USD.",
+    "amount": 708104.18,
+    "urgency": "No",
+    "prior_claims": 2,
+    "customer_id": "CUST1868",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "pfcv7161",
+    "type": "Property Damage",
+    "description": "Claim related to Moderate Damage, amounting to 11102.94 USD.",
+    "amount": 11102.94,
+    "urgency": "Yes",
+    "prior_claims": 5,
+    "customer_id": "CUST7443",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "ehkz2856",
+    "type": "Health Insurance",
+    "description": "Claim related to Surgery/Hospitalization, amounting to 80197.81 USD.",
+    "amount": 80197.81,
+    "urgency": "Yes",
+    "prior_claims": 0,
+    "customer_id": "CUST6422",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "avak0627",
+    "type": "Property Damage",
+    "description": "Claim related to Minor Damage, amounting to 2474.94 USD.",
+    "amount": 2474.94,
+    "urgency": "Yes",
+    "prior_claims": 5,
+    "customer_id": "CUST2694",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "wbif5347",
+    "type": "Auto Insurance",
+    "description": "Claim related to Bodily Injury Liability, amounting to 87576.41 USD.",
+    "amount": 87576.41,
+    "urgency": "Yes",
+    "prior_claims": 2,
+    "customer_id": "CUST7746",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "yyfk0445",
+    "type": "Auto Insurance",
+    "description": "Claim related to Totaled Vehicle Replacement, amounting to 12975.13 USD.",
+    "amount": 12975.13,
+    "urgency": "No",
+    "prior_claims": 4,
+    "customer_id": "CUST1449",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "adei0493",
+    "type": "Property Damage",
+    "description": "Claim related to Natural Disasters, amounting to 355431.73 USD.",
+    "amount": 355431.73,
+    "urgency": "Yes",
+    "prior_claims": 0,
+    "customer_id": "CUST3415",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "jaqk6836",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Business Theft, amounting to 30989.41 USD.",
+    "amount": 30989.41,
+    "urgency": "Yes",
+    "prior_claims": 4,
+    "customer_id": "CUST3494",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "btdo5587",
+    "type": "Property Damage",
+    "description": "Claim related to Moderate Damage, amounting to 8050.79 USD.",
+    "amount": 8050.79,
+    "urgency": "No",
+    "prior_claims": 4,
+    "customer_id": "CUST5051",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "ksus3252",
+    "type": "Property Damage",
+    "description": "Claim related to Moderate Damage, amounting to 8026.67 USD.",
+    "amount": 8026.67,
+    "urgency": "Yes",
+    "prior_claims": 0,
+    "customer_id": "CUST6900",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "jpws4755",
+    "type": "Property Damage",
+    "description": "Claim related to Minor Damage, amounting to 1470.84 USD.",
+    "amount": 1470.84,
+    "urgency": "Yes",
+    "prior_claims": 1,
+    "customer_id": "CUST2565",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "ykbf0239",
+    "type": "Health Insurance",
+    "description": "Claim related to Surgery/Hospitalization, amounting to 27259.59 USD.",
+    "amount": 27259.59,
+    "urgency": "Yes",
+    "prior_claims": 1,
+    "customer_id": "CUST6028",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "jiqs6564",
+    "type": "Health Insurance",
+    "description": "Claim related to Surgery/Hospitalization, amounting to 43317.96 USD.",
+    "amount": 43317.96,
+    "urgency": "No",
+    "prior_claims": 4,
+    "customer_id": "CUST6789",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "slbt7247",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Small-scale theft, amounting to 2384.92 USD.",
+    "amount": 2384.92,
+    "urgency": "No",
+    "prior_claims": 2,
+    "customer_id": "CUST9131",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "wecw9484",
+    "type": "Auto Insurance",
+    "description": "Claim related to Major Collisions, amounting to 36593.46 USD.",
+    "amount": 36593.46,
+    "urgency": "No",
+    "prior_claims": 3,
+    "customer_id": "CUST8963",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "offs5075",
+    "type": "Renters Insurance",
+    "description": "Claim related to Water Damage, amounting to 1272.5 USD.",
+    "amount": 1272.5,
+    "urgency": "Yes",
+    "prior_claims": 2,
+    "customer_id": "CUST7210",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "abpe6154",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Large theft, amounting to 7621.6 USD.",
+    "amount": 7621.6,
+    "urgency": "Yes",
+    "prior_claims": 1,
+    "customer_id": "CUST9451",
+    "risk_flag": "Low"
+  },
+  {
+    "claim_id": "ybmv0973",
+    "type": "Property Damage",
+    "description": "Claim related to Major Structural Damage, amounting to 210916.63 USD.",
+    "amount": 210916.63,
+    "urgency": "Yes",
+    "prior_claims": 0,
+    "customer_id": "CUST4568",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "mooo1258",
+    "type": "Auto Insurance",
+    "description": "Claim related to Bodily Injury Liability, amounting to 51937.66 USD.",
+    "amount": 51937.66,
+    "urgency": "Yes",
+    "prior_claims": 3,
+    "customer_id": "CUST4456",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "onrj2289",
+    "type": "Renters Insurance",
+    "description": "Claim related to Temporary Housing, amounting to 13902.1 USD.",
+    "amount": 13902.1,
+    "urgency": "Yes",
+    "prior_claims": 2,
+    "customer_id": "CUST5070",
+    "risk_flag": "Medium"
+  },
+  {
+    "claim_id": "sonv9708",
+    "type": "Renters Insurance",
+    "description": "Claim related to Fire or Smoke Damage, amounting to 9914.7 USD.",
+    "amount": 9914.7,
+    "urgency": "No",
+    "prior_claims": 5,
+    "customer_id": "CUST1851",
+    "risk_flag": "High"
+  },
+  {
+    "claim_id": "ntsj3803",
+    "type": "Burglary & Theft",
+    "description": "Claim related to Small-scale theft, amounting to 1864.74 USD.",
+    "amount": 1864.74,
+    "urgency": "Yes",
+    "prior_claims": 0,
+    "customer_id": "CUST2450",
+    "risk_flag": "Low"
+  }
+]
