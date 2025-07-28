@@ -30,19 +30,13 @@ An AI-powered insurance claim assistant that automates the process of summarizin
 
 
 
-| Tool               | Purpose                                  |
+Tool - Purpose
 
-|--------------------|------------------------------------------|
-
-| OpenAI GPT-4       | Claim summarization + risk reasoning     |
-
-| Python             | Data processing + risk classification    |
-
-| Pandas / JSON      | Data storage and manipulation            |
-
-| Figma              | UI mockups (Input \& Output screens)      |
-
-| Google Slides      | Final presentation deck                  |
+OpenAI GPT-4 - Claim summarization + risk reasoning
+Python - Data processing + risk classification
+Pandas / JSON - Data storage and manipulation
+Figma - UI mockups (Input \& Output screens)
+Canva - Final presentation deck
 
 
 
@@ -60,59 +54,59 @@ smart-claims-assistant/
 
 ├── data/ # Raw and processed claims
 
-│ ├── raw\_claims.json
+│ ├── raw\_claims.json # input data
 
-│ ├── raw\_claims\_with\_risk\_flags.json
+│ ├── raw\_claims\_with\_risk\_flags.json # Risk-tagged claims
 
-│ └── processed\_claims.csv
+│ └── processed\_claims.csv # Output after code-based tagging
 
 │
 
 ├── prompts/ # Prompt engineering experiments
 
-│ ├── prompt\_notes.txt
+│ ├── prompt\_notes.txt # Notes for all prompt iterations
 
-│ ├── raw\_gpt\_outputs.txt
+│ ├── raw\_gpt\_outputs.txt # GenAI responses (96% accurate)
 
-│ ├── raw\_gpt\_outputs2.txt
+│ ├── raw\_gpt\_outputs2.txt # GenAI reponses (98% accurate)
 
-│ ├── formatted\_claims.txt
+│ ├── formatted\_claims.txt # Processed input for OpenAI
 
-│ └── working\_examples.json
+│ └── working\_examples.json # Final GPT-parsed outputs
 
 │
 
 ├── scripts/ # Python scripts
 
-│ ├── generate\_prompt\_text.py
+│ ├── generate\_prompt\_text.py # Converts raw claims into GPT format
 
-│ ├── parse\_gpt\_output.py
+│ ├── parse\_gpt\_output.py # Parses GPT output into JSON
 
-│ ├── process\_claims.py
+│ ├── process\_claims.py # Runs risk logic and generates output
 
-│ └── risk\_classifier.py
+│ └── risk\_classifier.py # Contains rule-based risk engine
 
 │
 
 ├── docs/ # Strategy and business rules
 
-│ ├── risk\_rules.txt
+│ ├── risk\_rules.txt # Risk assignment rules
 
-│ └── classification\_strategy.txt
+│ └── classification\_strategy.txt # Notes on risk logic structure
 
 │
 
 ├── ui/ # Figma mockups
 
-│ ├── input\_screen.png
+│ ├── input\_screen.png # Figma input mockup
 
-│ └── output\_screen.png
+│ └── output\_screen.png # Figma output mockup
 
 │
 
 ├── SmartClaimsAssistant.pdf # Final Presentation
 
-├── processed\_claims\_insights.csv # GPT vs Code accuracy comparison
+├── processed\_claims\_insights.csv # GPT outputs accuracy depiction
 
 └── README.md # This file
 
