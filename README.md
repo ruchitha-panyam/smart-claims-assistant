@@ -33,9 +33,13 @@ An AI-powered insurance claim assistant that automates the process of summarizin
 Tool - Purpose
 
 \- OpenAI GPT-4 - Claim summarization + risk reasoning
+
 \- Python - Data processing + risk classification
+
 \- Pandas / JSON - Data storage and manipulation
+
 \- Figma - UI mockups (Input \& Output screens)
+
 \- Canva - Final presentation deck
 
 
